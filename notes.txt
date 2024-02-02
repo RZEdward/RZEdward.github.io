@@ -11,11 +11,11 @@ duplicate repo
 How do I want to style these pages?
 
 Home Page:
-- brief corporate summary
+- brief corporate, education, skills summary
 - motivations and goals
 - Selected experience and specializations
 - Biggest Project I am working on right now
-- Summary of skills
+- Summary of skills and certifications
 
 Subpages
 - Brief page-relevant intro
@@ -23,4 +23,35 @@ Subpages
 - text
 - Image to the right of text (how can I make a slideshow for projects?)
 
-- Books that I'm reading page? or just top 1-3 on additional interests?
+
+- Additional Interests:
+    
+    - Ironman
+    - Mensa
+    - PPL
+    - Africa's Gift
+
+    - Movies (Letterboxd)
+    - TV
+    - Books that I'm reading page? or just top 1-3 on additional interests?
+    - Music/Concerts + Playing Music (Piano)
+    - Musicals/Theatre
+    - Languages
+    - Gaming
+
+    - Sport: Football, Skiing, Basketball, F1, Tennis, International Rugby + Golf, Padel
+    - Ancient History
+    - Travelling
+    - Aviation
+    - Astronomy
+    - Investing/Trading
+    - Woodwork/Woodburning
+    - Drawing
+    - Origami
+
+    - Countries/Capitals/Flags
+    - PI 
+    - Rubix Cube
+    - Periodic Table
+
+    - Side-business?
