@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "About Me"
-permalink: /about_me/
+title: "Replicated Papers"
+permalink: /replicated_papers/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Abouttttttttttttttt
+Papers
 ======
-* Hello I am Ross welcome to my extra curriculars ..................................................................
+* Hello here I replicate research I haven't done myself bosh
 
 Work experience
 ======
