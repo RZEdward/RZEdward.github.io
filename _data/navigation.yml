@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "CV"
-    url: /CV/
+    url: /cv/
 
   - title: "Replicated Papers"
     url: /Replicated_Papers/    
 
   - title: "Portfolio"
-    url: /Portfolio/    
+    url: /portfolio/    
     
   - title: "About Me"
     url: /About_Me/
