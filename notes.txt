@@ -1,4 +1,4 @@
-Headers: Replicated Papers, Portfolio, CV, Personal Adventures
+Headers: CV, Replicated Papers, Portfolio, Personal Adventures
 Later: Talks, Blogs/Research Summary
 
 Links: LinkedIn, Github, Location
