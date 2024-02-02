@@ -5,3 +5,14 @@ collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Ideas:
+
+Personal Project (Neural Network from scratch to identify poke?)
+Personal Project 2 (Dashboard on London Rent)
+Useful/Partially Novel Idea - ML classifier for neural tube defects - relate to bio lit review
+
+Replicate a Research Paper - needs to be high level ML research (/academic_research)
+Masters Project - just publish the replicated research (/academic_research)
+Conference Submission - ML Project (NIPS is ambitious... submit to a different field for backdoor entrance)
+

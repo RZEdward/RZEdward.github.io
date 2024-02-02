@@ -11,7 +11,7 @@ duplicate repo
 How do I want to style these pages?
 
 Home Page:
-- brief corporate, education, skills summary
+- brief corporate, education
 - motivations and goals
 - Selected experience and specializations
 - Biggest Project I am working on right now
