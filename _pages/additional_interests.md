@@ -23,7 +23,7 @@ Abouttttttttttttttt
 * Musicals/Theatre
 * Languages (broken french...)
 
-* Sport: Football (Dev Squad), Skiing, Basketball, F1, Tennis, International Rugby + Golf, Padel
+* Sport: Football (Dev Squad), Skiing, Basketball, F1, Tennis, International Rugby + Golf, Padel (soon)
 * eSports: Fifa 19 #1 Global Weekly Rank, Progressed to Ro32 to represent England
 * Ancient History
 * Travelling (41/197 countries)
