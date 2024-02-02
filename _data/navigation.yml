@@ -10,7 +10,7 @@ main:
     url: /Replicated_Papers/    
 
   - title: "About Me"
-    url: /About_Me/
+    url: /about_me/
         
   - #title: "Blog Posts"
     #url: /year-archive/
