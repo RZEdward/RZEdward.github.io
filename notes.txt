@@ -1,7 +1,11 @@
-Headers: CV, Replicated Papers, Portfolio, Personal Adventures
-Later: Talks, Blogs/Research Summary
+Headers: CV, Portfolio, Academic Research, Additional Interests
+Later: Talks
 
-Links: LinkedIn, Github, Location
+Links: Location, Company, Email, LinkedIn, Github
 Later: PubMed, Google Scholar
 
-add email, youtube, current company
+background to navy, text to white
+
+remove generic footer
+
+clean sitemap
