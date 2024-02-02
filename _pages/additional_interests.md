@@ -9,7 +9,7 @@ author_profile: true
 
 Abouttttttttttttttt
 ======
-* Hello I am Ross welcome to my extra curriculars .......................................................................................................
+* Hello I am Ross welcome to my extra curriculars .......................................................................................................................................|
 
 Work experience
 ======
