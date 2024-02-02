@@ -9,34 +9,33 @@ author_profile: true
 
 Abouttttttttttttttt
 ======
-* Hello I am Ross welcome to my extra curriculars ......................................................................................................................................aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+* Hello I am Ross welcome to my extra curriculars ......................................................................................................................................work in progress
 
-* Ironman
+* Ironman (2026)
 * Mensa
-* PPL
+* PPL (once funded...)
 * Africa's Gift
 
 * Movies (Letterboxd)
-* TV
+* TV Shows
 * Books that I'm reading page? or just top 1-3 on additional interests?
-* Music/Concerts + Playing Music (Piano)
+* Music/Concerts (pretend I'm cultured)
 * Musicals/Theatre
-* Languages
-* Gaming
+* Languages (broken french...)
 
-* Sport: Football, Skiing, Basketball, F1, Tennis, International Rugby + Golf, Padel
+* Sport: Football (Dev Squad), Skiing, Basketball, F1, Tennis, International Rugby + Golf, Padel
+* eSports: Fifa 19 #1 Global Weekly Rank, Progressed to Ro32 to represent England
 * Ancient History
-* Travelling
-* Aviation
+* Travelling (41/197 countries)
 * Astronomy
 * Investing/Trading
 * Woodwork/Woodburning
 * Drawing
 * Origami
 
-* Countries/Capitals/Flags
-* PI 
-* Rubix Cube
-* Periodic Table
+* Countries/Capitals/Flags/Regions (Sporcle Quiz Champion)
+* PI (150 Digits)
+* Rubix Cube (47s Record)
+* Periodic Table Song
 
 * Side-business?
