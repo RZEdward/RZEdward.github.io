@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Engineer"
   location         : "London, UK"
-  employer         :
+  employer         : "Kubrick Group"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ross@edwardsnetwork.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
