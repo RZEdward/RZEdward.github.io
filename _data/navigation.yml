@@ -6,8 +6,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/   
 
-  - title: "Replicated Papers"
-    url: /replicated_papers/    
+  - title: "Academic Research"
+    url: /academic_research/    
 
   - title: "Additional Interests"
     url: /additional_interests/

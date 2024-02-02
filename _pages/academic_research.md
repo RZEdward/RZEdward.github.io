@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Replicated Papers"
-permalink: /replicated_papers/
+title: "Academic Research"
+permalink: /academic_research/
 author_profile: true
 ---
 
