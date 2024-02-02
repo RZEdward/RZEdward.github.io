@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "About Me"
-permalink: /about_me/
+title: "Additional Interests"
+permalink: /additional_interests/
 author_profile: true
 ---
 
