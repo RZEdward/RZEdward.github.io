@@ -6,6 +6,6 @@ Later: PubMed, Google Scholar
 
 background to navy, text to white
 
-remove generic footer
-
 clean sitemap
+
+duplicate repo
