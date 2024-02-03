@@ -1,10 +1,12 @@
 {% include base_path %}
 
 <style>
-    body {
-      background-color: #274865;
-      color: white;
-    }
-  </style>
+  .footer {
+    background-color: #274865; /* Footer background color */
+    color: white; /* Text color in the footer */
+  }
+</style>
 
-<div class="">{{ site.time | date: '%Y' }} | Ross Edwards | ross@edwardsnetwork.com </div>
+<div class="footer">
+  {{ site.time | date: '%Y' }} | Ross Edwards | ross@edwardsnetwork.com
+</div>
