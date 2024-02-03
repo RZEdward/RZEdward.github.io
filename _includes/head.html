@@ -2,6 +2,13 @@
 
 <meta charset="utf-8">
 
+<style>
+  .head {
+    background-color: #274865; /* Footer background color */
+    color: white; /* Text color in the footer */
+  }
+</style>
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
