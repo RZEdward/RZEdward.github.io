@@ -2,52 +2,54 @@
    MASTHEAD
    ========================================================================== */
 
-.masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
-
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
+   .masthead {
+    position: relative;
+    background-color: #000000; // Set your desired background color
+    border-bottom: none; // Remove border or set to '1px solid #desiredBorderColor'
+    -webkit-animation: intro 0.3s both;
+            animation: intro 0.3s both;
+    -webkit-animation-delay: 0.15s;
+            animation-delay: 0.15s;
+    z-index: 20;
+  
+    &__inner-wrap {
+      @include container;
+      @include clearfix;
+      padding: 1em 0; // Removed side padding
+      font-family: $sans-serif-narrow;
+      max-width: 100%; // Ensure the inner wrap is full width
+  
+      @include breakpoint($x-large) {
+        max-width: $x-large; // Adjust this as necessary for larger screens
+      }
+  
+      nav {
+        z-index: 10;
+      }
+  
+      a {
+        text-decoration: none;
+      }
     }
   }
-}
-
-.masthead__menu {
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
+  
+  .masthead__menu {
+    ul {
+      margin: 0;
+      padding: 0;
+      clear: both;
+      list-style-type: none;
+    }
+  }
+  
+  .masthead__menu-item {
+    display: block;
     list-style-type: none;
+    white-space: nowrap;
+  
+    &--lg {
+      padding-right: 2em; // Adjust or remove padding as needed
+      font-weight: 700;
+    }
   }
-}
-
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
-    font-weight: 700;
-  }
-}
+  
