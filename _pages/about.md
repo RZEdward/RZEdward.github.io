@@ -16,6 +16,7 @@ Selected experience and specializations
 Biggest Project I am working on right now
 Summary of skills and certifications
 
+conferences/talks/workshops/networking events i have attended
 
 Skills:
 
