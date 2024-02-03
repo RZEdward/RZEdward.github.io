@@ -6,8 +6,6 @@ Later: PubMed, Google Scholar, YouTube
 
 background to navy, text to white
 
-duplicate repo
-
 How do I want to style these pages?
 
 Home Page:
