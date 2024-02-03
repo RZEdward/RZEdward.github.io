@@ -32,5 +32,26 @@
     background-color: #274865; /* Header background color */
     color: white; /* Text color in the header */
   }
-  
+
+
+  /* Reset margins and padding */
+  .masthead__menu-item, .masthead__menu-item--lg, .visible-links {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Ensure list items fill the horizontal space */
+  .visible-links {
+    display: flex; /* or 'grid' if using a grid layout */
+    justify-content: space-between; /* Adjust as needed */
+  }
+
+  /* If you are using a grid layout */
+  .visible-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); /* Adjust minmax as needed */
+    gap: 0; /* Adjust or remove gap as needed */
+  }
+
 </style>
+
