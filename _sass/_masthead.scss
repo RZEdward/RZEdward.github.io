@@ -6,10 +6,10 @@
     position: relative;
     background-color: #274865; // Set your desired background color
     border-bottom: '1px solid #fff'; // Remove border or set to '1px solid #desiredBorderColor'
-    -webkit-animation: intro 3.3s both;
-            animation: intro 3.3s both;
-    -webkit-animation-delay: 3.15s;
-            animation-delay: 3.15s;
+    -webkit-animation: intro 0.3s both;
+            animation: intro 0.3s both;
+    -webkit-animation-delay: 0.15s;
+            animation-delay: 0.15s;
     z-index: 20;
   
     &__inner-wrap {
