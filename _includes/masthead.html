@@ -1,19 +1,19 @@
 {% include base_path %}
 
 <div class="masthead">
-  <div class="masthead__inner-wrap">
+  <div class="masthead__inner-wrap" style="width: 100%; box-sizing: border-box; overflow: hidden;">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+      <nav id="site-nav" class="greedy-nav" style="width: 100%;">
         <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+        <ul class="visible-links" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin: 0; padding: 0; list-style-type: none;">
+          <li class="masthead__menu-item masthead__menu-item--lg" style="flex-grow: 1; text-align: center;"><a href="{{ base_path }}/" style="color: white; text-decoration: none;">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% else %}
+            {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item" style="flex-grow: 1; text-align: center;"><a href="{{ domain }}{{ link.url }}" style="color: white; text-decoration: none;">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -28,23 +28,5 @@
     color: white; /* Text color in the header */
   }
 
-  .masthead__menu-item a {
-    background-color: #274865; /* Header background color */
-    color: white; /* Text color in the header */
-  }
-
-
-  /* Reset margins and padding */
-  .masthead__menu-item, .masthead__menu-item--lg, .visible-links {
-    margin: 0;
-    padding: 0;
-  }
-
-  /* Ensure list items fill the horizontal space */
-  .visible-links {
-    display: flex; /* or 'grid' if using a grid layout */
-    justify-content: space-between; /* Adjust as needed */
-  }
-
+  /* Add additional custom styles if needed */
 </style>
-
