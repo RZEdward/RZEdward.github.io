@@ -6,7 +6,7 @@ footer.html controls footer
 
 masthead.html controls Header
 
-ISSUES: cant control link hover colour, no left margin on mobile in the nav bar
+ISSUES: cant control link underline hover colour, no left margin on mobile in the nav bar, icons dont really show on navy background need to change their colour
 
 
 
