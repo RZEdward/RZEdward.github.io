@@ -17,11 +17,15 @@ Personal Project (Neural Network from scratch to identify poke?)
 
 Personal Project 2 (Dashboard on London Rent)
 
+SQL Project
+
 Useful/Partially Novel Idea - ML classifier for neural tube defects - relate to bio lit review
 
 contribute to open source
 
 hackathon
+
+excel competition
 
 Replicate a Research Paper - needs to be high level ML research (/academic_research)
 
