@@ -1,3 +1,15 @@
+
+single.html controls homepage
+archive.html controls pages
+
+footer.html controls footer 
+
+masthead.html controls Header
+
+ISSUES: cant control link hover colour, no left margin on mobile in the nav bar
+
+
+
 Headers: CV, Portfolio, Academic Research, Additional Interests
 Later: Talks,  Publications
 
