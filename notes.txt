@@ -9,14 +9,11 @@ masthead.html controls Header
 AT THIS POINT EVERYTHING IS FUNCTIONAL
 
 ISSUES: 
-cant control link underline hover colour
-no left margin on mobile in the nav bar 
+
+left margin header/footer is too big on mobile - can i do distance as a function of screen size? or just if mobile: x px
+drop down menu colour on mobile
+
 icons dont really show on navy background need to change their colour
-footer and header left side are slightly misaligned
-
-the underline isnt using underline text-decoration its using something else animated - could be in buttons.scss?
-make this underline white when you find it
-
 
 
 Headers: CV, Portfolio, Academic Research, Additional Interests
