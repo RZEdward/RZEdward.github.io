@@ -27,11 +27,8 @@ background to navy, text to white
 How do I want to style these pages?
 
 Home Page:
-- brief corporate, education
-- motivations and goals
-- Selected experience and specializations
-- Biggest Project I am working on right now
-- Summary of skills and certifications
+
+- once I have some work experience update this to put exp. at top - want to be seen as a professional not a graduate
 
 Subpages
 - Brief page-relevant intro

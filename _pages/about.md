@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 <br>
-<br>
-<br>
-
 Welcome to my personal website and portfolio, my name is Ross, I'm an incoming machine learning engineer, and I am a graduate of Durham University with a Master's degree in Natural Sciences combining Physics and Biology. I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning and data science through personal projects, work history, and self-study.
 
 Entering the tech world from a natural sciences background has given me a concrete foundation in advanced mathematics and statistics which I can apply to machine learning theory. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. To reinforce my 'transition' from physics to computer Science, I have completed several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced level degree modules:
