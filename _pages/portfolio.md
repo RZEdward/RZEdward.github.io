@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+<br>
 
 Welcome! See my projects below.
 
