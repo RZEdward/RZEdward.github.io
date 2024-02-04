@@ -13,6 +13,7 @@ author_profile: true
 * COVID19 Dashboard
 * Neural Tube Defect Classifier
 
+* Kaggle competitions
 * Hackathon
 * Excel Competition
 * Open Source Contribution

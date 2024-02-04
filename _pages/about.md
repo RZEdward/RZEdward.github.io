@@ -15,7 +15,7 @@ I am driven by a deep interest in mathematics, statistics, and model development
 
 My current research interests lie in RNNs, agent-based modelling, and time series forecasting. 
 
-Skills and certifications:
+<h5> Skills & Certifications </h5>
 
 * Python / C++ / R / Shell-Scripting
 * Tableau / PowerBI
