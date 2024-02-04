@@ -13,6 +13,7 @@ icons dont really show on navy background need to change their colour
 footer and header left side are slightly misaligned
 
 the underline isnt using underline text-decoration its using something else animated - could be in buttons.scss?
+make this underline white when you find it
 
 
 
