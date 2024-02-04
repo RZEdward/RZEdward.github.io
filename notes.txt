@@ -8,7 +8,9 @@ masthead.html controls Header
 
 AT THIS POINT EVERYTHING IS FUNCTIONAL
 
-ISSUES: cant control link underline hover colour, no left margin on mobile in the nav bar, 
+ISSUES: 
+cant control link underline hover colour
+no left margin on mobile in the nav bar 
 icons dont really show on navy background need to change their colour
 footer and header left side are slightly misaligned
 
