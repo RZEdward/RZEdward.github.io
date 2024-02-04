@@ -33,9 +33,7 @@ My current research interests lie in RNNs, agent-based modelling, and time serie
 
 * Custom-built neural network designed to identify pokemon
 
-Recent conferences, talks, workshops, and networking events attended:
-
-* NIPS
+<br>
 
 My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which can be applied to machine learning theory and the wider tech domain. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. 
 
@@ -48,6 +46,8 @@ To reinforce my 'transition' from physics to computer science, I have completed 
 * CS228 - Probabilistic Graphical Models: Principles and Techniques
 * CS229 / CS229B - Machine Learning / Machine Learning for Sequence Modelling
 * CS230 - Deep Learning
+
+In addition I continue to attend various relevant conferences, talks, and workshops.
 
 My career is just beginning but I have a well-defined set of goals I hope to achieve. Looking forward I will continue to develop my machine learning skills until I am confident in the subset of machine learning I would like to specialise in, and at present I feel drawn to reinforcement learning due to the near-infinite scale of complexity and intrigue it offers. From this point, I aim to apply innovative machine learning solutions to transform businesses and optimise key processes and pipelines. I hope to build something truly meaningful and later submit it to a top conference where I can share my research and ideas.
 

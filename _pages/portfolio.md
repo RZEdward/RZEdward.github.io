@@ -17,3 +17,4 @@ author_profile: true
 * Hackathon
 * Excel Competition
 * Open Source Contribution
+* Teaching (YouTube?)
