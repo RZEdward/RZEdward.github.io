@@ -39,7 +39,7 @@ Recent conferences, talks, workshops, and networking events attended:
 
 My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which can be applied to machine learning theory and the wider tech domain. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. 
 
-To reinforce my 'transition' from physics to computer science, I have completed several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced level degree modules:
+To reinforce my 'transition' from physics to computer science, I have completed several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules:
 
 * CS106A / CS106X - Programming Methodologies / Programming Abstractions
 * CS107 / CS110 - Computer Organisation and Systems / Principles of Computer Systems
