@@ -21,7 +21,7 @@ Entering the tech world from a natural sciences background has given me a concre
 * CS229 / CS229B - Machine Learning / Machine Learning for Sequence Modelling
 * CS230 - Deep Learning
 
-My career is just beginning, however, I have a well-defined set of goals I hope to achieve. Looking forward I will continue to develop my machine learning skills until I am confident in the subset of machine learning I would like to specialise in, and at present I feel drawn to reinforcement learning due to the near-infinite scale of complexity and intrigue it offers. From this point, I aim to apply innovative machine learning solutions to transform businesses and hyper-optimise key processes and pipelines. I hope to build something truly meaningful and later submit it to a top conference where I can share my research and ideas.
+My career is just beginning but I have a well-defined set of goals I hope to achieve. Looking forward I will continue to develop my machine learning skills until I am confident in the subset of machine learning I would like to specialise in, and at present I feel drawn to reinforcement learning due to the near-infinite scale of complexity and intrigue it offers. From this point, I aim to apply innovative machine learning solutions to transform businesses and hyper-optimise key processes and pipelines. I hope to build something truly meaningful and later submit it to a top conference where I can share my research and ideas.
 
 Skills and certifications:
 
