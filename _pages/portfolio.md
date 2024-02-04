@@ -35,7 +35,7 @@ Let's try to classify something with LR or 2-Feature GDA.
 
 <br>
 
-<h2> Project 4: Time Series </h2>
+<h2> Project 4: Time Series Forecasting </h2>
 
 Let's build a time series forecast.
 
