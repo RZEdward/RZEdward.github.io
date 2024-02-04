@@ -9,8 +9,6 @@ use inspect element to identify class names to be modified
 
 ISSUES: 
 
-social media icon colours - sass/utilities
-
 change some fonts
 
 MOBILE:
