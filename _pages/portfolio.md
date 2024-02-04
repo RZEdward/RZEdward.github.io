@@ -48,6 +48,7 @@ Ideas:
 * Neural Network from scratch - Pokemon Identifier
 * London Boroughs Rental Market Dashboard
 * Neural Tube Defect Classifier
+* Cobblestone Project
 
 * Kaggle competitions
 * Hackathon
