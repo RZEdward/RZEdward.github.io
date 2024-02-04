@@ -34,17 +34,9 @@ Ironman, Football, Skiing
 
 <br>
 
-<h2> All Things Acting </h2>
+<h2> Cinema & TV, Musicals & Theatre </h2>
 
 Recently Watched: The Red Turtle, Hamilton, Gilmore Girls
-
-![image](rzedward.github.io/images/500x300.png)
-
-<br>
-
-<h2> Life Achievements </h2>
-
-PPL, MENSA, FIFA 19 
 
 ![image](rzedward.github.io/images/500x300.png)
 
