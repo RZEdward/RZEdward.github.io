@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Abouttttttttttttttt - Test
-======
-* Hello I am Ross welcome to my extra curriculars ......................................................................................................................................work in progress
+<br>
+Below you will see everything I do to fill my free time beyond machine learning and exploring research.
 
 * Ironman (2026)
 * Mensa
