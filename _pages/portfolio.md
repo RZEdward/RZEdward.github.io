@@ -9,6 +9,8 @@ author_profile: true
 
 <br>
 
+Welcome! See my projects below.
+
 <h2> CNN Pokemon Classifier </h2>
 
 In my most recent project I constructed a convolutional neural network (CNN) and applied it to a dataset of first generation pokemon, with the aim of correctly classifying a pokemon when tested on unseen data.
