@@ -12,5 +12,6 @@ author_profile: true
 * Reimplemented Paper
 * Master's Project Literature Review
 * Dissertation Lit Review
+* Cobblestone Project
 
 * Paper 1 - Read recently & summarised

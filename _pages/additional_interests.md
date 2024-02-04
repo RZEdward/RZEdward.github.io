@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <br>
-Below you will see everything I do to fill my free time beyond machine learning and exploring research.
+Below you will see various activities I engage in to fill my free time beyond machine learning and exploring research.
 
 * Ironman (2026)
 * Mensa
