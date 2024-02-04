@@ -15,7 +15,7 @@ I am driven by a deep interest in mathematics, statistics, and model development
 
 My current research interests lie in RNNs, agent-based modelling, and time series forecasting. 
 
-<h3> Skills & Certifications </h3>
+<h2> Skills & Certifications </h2>
 
 * Python / C++ / R / Shell-Scripting
 * Tableau / PowerBI
@@ -24,12 +24,12 @@ My current research interests lie in RNNs, agent-based modelling, and time serie
 * AWS / Azure
 * Hadoop / Spark
 
-Selected experience:
+<h2> Selected Experience </h2>
 
 * Kubrick Group - Machine Learning Engineer
 * Here my primary focus has been on...
 
-Primary Ongoing Project:
+<h2> Primary Ongoing Project </h2>
 
 * Custom-built neural network designed to identify pokemon
 
