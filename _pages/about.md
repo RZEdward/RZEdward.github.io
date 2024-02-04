@@ -31,7 +31,7 @@ My current research interests lie in RNNs, agent-based modelling, and time serie
 
 <h2> Primary Ongoing Project </h2>
 
-* Custom-built neural network designed to identify pokemon
+* Pokemon Classification Model using a Convolutional Neural Network (CNN) built from scratch
 
 <br>
 
