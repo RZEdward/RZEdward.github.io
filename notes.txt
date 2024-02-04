@@ -9,11 +9,11 @@ use inspect element to identify class names to be modified
 
 ISSUES: 
 
-change some fonts
+    Make font generalizable
 
-MOBILE:
-nav bar dropdown menu colour
-socials/follow dropdown menu colour
+    MOBILE:
+    nav bar dropdown menu colour
+    socials/follow dropdown menu colour
 
 
 Headers: CV, Portfolio, Academic Research, Additional Interests
