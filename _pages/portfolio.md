@@ -1,11 +1,13 @@
 ---
-layout: archive
+#layout: archive
 title: "Portfolio"
 permalink: /project_portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
+
+
 
 Welcome! See my projects below.
 
