@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-Incoming machine learning engineer and graduate of Durham University with a Master's degree in Natural Sciences combining Physics and Biology. 
+Incoming machine learning engineer at Kubrick Group and graduate of Durham University with a Master's degree in Natural Sciences combining Physics and Biology. 
 
 I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning and data science through personal projects, work history, and self-study. 
 
