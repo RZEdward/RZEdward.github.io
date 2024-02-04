@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+<br>
+<br>
+<br>
 
 Welcome to my personal website and portfolio, my name is Ross, I'm an incoming machine learning engineer, and I am a graduate of Durham University with a Master's degree in Natural Sciences combining Physics and Biology. I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning and data science through personal projects, work history, and self-study.
 
