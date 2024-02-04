@@ -1,5 +1,5 @@
 ---
-layout: archive
+#layout: archive
 title: "Additional Interests"
 permalink: /additional_interests/
 author_profile: true
@@ -9,6 +9,57 @@ author_profile: true
 
 <br>
 Below you will see various activities I engage in to fill my free time beyond machine learning and exploring research.
+
+<h2> Reading </h2>
+
+Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+<h2> Travelling </h2>
+
+Recently Visited: Japan, UAE, Milan
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+<h2> Sport </h2>
+
+Ironman, Football, Skiing
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+<h2> All Things Acting </h2>
+
+Recently Watched: The Red Turtle, Hamilton, Gilmore Girls
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+<h2> Life Achievements </h2>
+
+PPL, MENSA, FIFA 19 
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+<h2> Ancient History </h2>
+
+Harappan Script Decoding
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+
+Ideas:
 
 * Ironman (2026)
 * Mensa
