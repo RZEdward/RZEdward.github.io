@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Papers
-======
-* Hello here I replicate research I haven't done myself bosh
+<br>
+* Conference Submission
+* Reimplemented Paper
+* Master's Project Literature Review
+* Dissertation Lit Review
 
-reimplement paper
-
-which papers have i read recently
+* Paper 1 - Read recently & summarised
