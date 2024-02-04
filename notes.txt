@@ -9,13 +9,7 @@ use inspect element to identify class names to be modified
 
 ISSUES: 
 
-social media icon colours
-
-.fa-github,
-  .fa-github-alt,
-  .fa-github-square {
-    color: $github-color;
-  }
+social media icon colours - sass/utilities
 
 change some fonts
 
