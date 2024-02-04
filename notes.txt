@@ -3,17 +3,25 @@ single.html controls homepage
 archive.html controls pages
 
 footer.html controls footer 
-
 masthead.html controls Header
 
-AT THIS POINT EVERYTHING IS FUNCTIONAL
+use inspect element to identify class names to be modified
 
 ISSUES: 
 
-left margin header/footer is too big on mobile - can i do distance as a function of screen size? or just if mobile: x px
-drop down menu colour on mobile
+social media icon colours
 
-icons dont really show on navy background need to change their colour
+.fa-github,
+  .fa-github-alt,
+  .fa-github-square {
+    color: $github-color;
+  }
+
+change some fonts
+
+MOBILE:
+nav bar dropdown menu colour
+socials/follow dropdown menu colour
 
 
 Headers: CV, Portfolio, Academic Research, Additional Interests
