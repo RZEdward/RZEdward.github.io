@@ -86,28 +86,16 @@ I have found myself to be somewhat obsessed with the ongoing attempts to decode 
 
 Ideas:
 
-* Ironman (2026)
-* Mensa
-* PPL (once funded...)
-* Africa's Gift
+In Time:
 
-* Movies (Letterboxd)
-* TV Shows
-* Books that I'm reading page? or just top 1-3 on additional interests?
-* Music/Concerts (pretend I'm cultured)
-* Musicals/Theatre
-* Languages (broken french...)
+- Woodburning Art
+- Aviation
+- Humanitarian Aid in Africa
+- Astronomy (YT Channel)
 
-* Sport: Football (Dev Squad), Skiing, Basketball, F1, Tennis, International Rugby + Golf, Padel (soon)
 * eSports: Fifa 19 #1 Global Weekly Rank, Progressed to Ro32 to represent England
-* Ancient History
-* Travelling (41/197 countries)
-* Astronomy
 * Investing/Trading
-* Woodwork/Woodburning
-* Drawing
-* Origami
-
+* Languages (broken french...)
 * Countries/Capitals/Flags/Regions (Sporcle Quiz Champion)
 * PI (150 Digits)
 * Rubix Cube (47s Record)

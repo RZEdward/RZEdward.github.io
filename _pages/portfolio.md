@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 <br>
-Welcome! See my projects below.
+Welcome! See my projects below. <!-- or contributions or competitions -->
 
 <h2> Convolutional Neural Network: Gen-1 Pokémon Classifier </h2>
 
@@ -24,6 +24,10 @@ In this project I conducted extensive research into various key stats that one m
 ![image](rzedward.github.io/images/500x300.png)
 
 <br>
+
+
+<!--
+
 
 <h2> Data Engineering Project </h2>
 
@@ -57,3 +61,5 @@ Ideas:
 * Excel Competition
 * Open Source Contribution
 * Teaching (YouTube?)
+
+-->
