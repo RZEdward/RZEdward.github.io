@@ -13,7 +13,7 @@ Welcome! See my projects below. <!-- or contributions or competitions -->
 
 In my most recent project I constructed a convolutional neural network (CNN) using Keras from TensorFlow and applied it to a dataset of first generation pokemon (downloaded from Kaggle <!-- add link here -->), with the aim of producing an accurate image recognition algorithm and correctly classifying pokemon when tested on unseen data.
 
-Following some intensive efforts in preprocessing, hidden layer selctions, and hyperparameter optimization, detailed in this report, the model returned a test classification accuracy of 95%, and an F1-Score of _.
+Following some intensive efforts in preprocessing, hidden layer selctions, and hyperparameter optimization, detailed in this report<!-- add link here -->, the model returned a test classification accuracy of 95%, and an F1-Score of _.
 
 ![image](rzedward.github.io/images/500x300.png) 
 
