@@ -11,7 +11,7 @@ Welcome! See my projects below.
 
 <h2> Convolutional Neural Network: Gen-1 Pokémon Classifier </h2>
 
-In my most recent project I constructed a convolutional neural network (CNN) and applied it to a dataset of first generation pokemon, with the aim of correctly classifying a pokemon when tested on unseen data.
+In my most recent project I constructed a convolutional neural network (CNN) and applied it to a dataset of first generation pokemon, with the aim of producing an accurate image recognition algorithm and correctly classifying pokemon when tested on unseen data.
 
 ![image](rzedward.github.io/images/500x300.png)
 
