@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <br>
-Below you will see various activities I engage in to fill my free time beyond machine learning and exploring research.
+What I get up to in my spare time!.
 
 <h2> Reading </h2>
 
