@@ -17,7 +17,7 @@ My current research interests lie in CNNs and agent-based modelling.
 
 <h2> Skills & Certifications </h2>
 
-* Programming Languages: Python, C++, R / Shell-Scripting
+* Programming Languages: Python, C++, R
 * Frameworks: TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
 * Data Analysis: Excel, SQL
 * Data Visualisation: Tableau, PowerBI

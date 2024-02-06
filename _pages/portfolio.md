@@ -15,9 +15,10 @@ In my most recent project I constructed a convolutional neural network (CNN) usi
 
 Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, detailed in this report<!-- add link here -->, the model returned a test classification accuracy of 95%, and an F1-Score of _.
 
-![image](rzedward.github.io/images/500x300.png) 
-
-<!-- add image of correctly classified test example, and of the accuracy vs epochs passed -->
+<div style="display: flex;">
+  <img src="/Lickitung.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
+  <img src="/Accuracy_Epoch.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
+</div>
 
 <br>
 
