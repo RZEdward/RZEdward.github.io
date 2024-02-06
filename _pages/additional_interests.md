@@ -26,8 +26,11 @@ Top Songs:
 - Head and the Heart: Rivers and Roads
 - Paulo Nutini: No Other Way
 
-<img src="/images/spotify.png" alt="Spotify DNA Poster" style="width: 50%; border: 2px solid white;">
-<img src="/images/spotify.png" alt="Spotify DNA Poster" style="width: 50%; border: 2px solid white;">
+<div style="display: flex;">
+  <img src="/images/spotify.png" alt="Image 1" style="width: 50%; margin-right: 2px;">
+  <img src="/images/spotify.png" alt="Image 2" style="width: 50%;">
+</div>
+
 
 <br>
 
