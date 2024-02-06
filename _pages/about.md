@@ -13,7 +13,7 @@ Incoming data engineer for machine learning at Kubrick Group and graduate of Dur
 
 I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning, data engineering, and data science through personal projects, work history, and self-study. 
 
-My current research interests lie in CNNs, agent-based modelling, and time series forecasting. 
+My current research interests lie in CNNs and agent-based modelling.
 
 <h2> Skills & Certifications </h2>
 
