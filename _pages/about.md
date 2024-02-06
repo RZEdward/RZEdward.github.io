@@ -49,7 +49,7 @@ To reinforce my 'transition' from physics to computer science, I have completed 
 
 In addition I continue to attend various relevant conferences, talks, and workshops.
 
-My career is just beginning but I have a well-defined set of goals I hope to achieve. Looking forward I will continue to develop my machine learning skills until I am confident in the subset of machine learning I would like to specialise in, and at present I feel drawn to reinforcement learning due to the near-infinite scale of complexity and intrigue it offers. From this point, I aim to apply innovative machine learning solutions to transform businesses and optimise key processes and pipelines. I hope to build something truly meaningful and later submit it to a top conference where I can share my research and ideas.
+My career is just beginning but I have a well-defined set of goals I hope to achieve. Looking forward I will continue to develop my data engineering, data science, and machine learning skills until I am confident in the specific domain I would like to specialise in, and at present I feel drawn to reinforcement learning due to the near-infinite scale of complexity and intrigue it offers. From this point, I aim to apply innovative machine learning model solutions to change the way the world approaches problems I am passionate about. I hope to build something truly meaningful that transforms a business or industry and later submit it to a top conference where I can share my research and ideas.
 
 Please see my linked socials if you wish to contact me, and refer to the navigation bar to see my projects, research, and additional interests in depth.
 
