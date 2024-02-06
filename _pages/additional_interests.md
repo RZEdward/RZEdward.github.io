@@ -27,7 +27,7 @@ Recently I've read a range of books, from dark/high fantasy, to a history of rib
 I'm not sure that the last 6 months shown below are a precise representation of my musical preferences... In recent times I've really just had Matt Maltese (Less and Less, When You Wash Your Hair), The Head and the Heart (Rivers and Roads) and Paulo Nutini (No Other Way) on repeat.
 
 <div style="display: flex;">
-  <img src="/images/spotify.png" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
 </div>
 
 <br>
@@ -46,9 +46,15 @@ In the past year I have been fortunate enough to visit Milan and experience the 
 
 <h2> Sport </h2>
 
-Ironman, Football, Skiing
+I grew up with football and skiing as my primary sports, and managed to reach a fairly high level in both while time and health permitted. Now I am focusing on preparing for an Ironman in 2026, and as a spectator I hold an interest in basketball, formula 1, and tennis.
 
-![image](rzedward.github.io/images/500x300.png)
+In time I will track my running, swimming, and cycling progression here.
+
+<!-- Athletic Analytics 
+
+Day 1: Distance, Speed
+
+-->
 
 <br>
 
@@ -75,16 +81,8 @@ I have found myself to be somewhat obsessed with the ongoing attempts to decode 
 
 <br>
 
-<h2> Speed-Cubing </h2>
 
-Record: 47s
-
-YouTube Tutorial: .link
-
-![image](rzedward.github.io/images/500x300.png)
-
-<br>
-
+<!--
 
 Ideas:
 
@@ -116,3 +114,5 @@ Ideas:
 * Periodic Table Song
 
 * Side-business?
+
+-->
