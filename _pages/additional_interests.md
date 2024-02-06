@@ -8,16 +8,16 @@ author_profile: true
 {% include base_path %}
 
 <br>
-What I get up to in my spare time!.
+What I get up to in my spare time!
 
 <h2> Reading </h2>
 
 Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
 
 <div style="display: flex;">
-  <img src="/images/Shadow_and_Bone.jpg" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Gene_Machine.jpg" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Crime_and_Punishment.jpg" alt="Image 2" style="width: 50%; border: 2px solid white;">
+  <img src="/images/Shadow_and_Bone.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Gene_Machine.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Crime_and_Punishment.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
 </div>
 
 <br>
