@@ -16,7 +16,7 @@ Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
 
 <div style="display: flex;">
   <img src="/images/Shadow_and_Bone.jpg" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Gene_Machine.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Gene_Machine.jpg" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Crime_and_Punishment.jpg" alt="Image 2" style="width: 50%; border: 2px solid white;">
 </div>
 
