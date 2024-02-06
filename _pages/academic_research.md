@@ -23,7 +23,7 @@ Built in C++, this computer-simulated agent-based model was developed to replica
 This literature review, accessed [HERE](/files/Biosciences_Literature_Review.pdf) as a PDF, is a synthesis of various papers exploring the ways in which the dysregulation of epigenetic processes or imbalance of environmental factors may lead to the occurrence of neural tube defects (NTDs).
 
 <div style="display: flex;">
-  <img src="/images/Lit_Review_Cover.png" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/Lit_Review_Cover.png" alt="Image 2" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
