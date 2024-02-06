@@ -27,7 +27,7 @@ Recently I've read a range of books, from dark/high fantasy, to a history of rib
 I'm not sure that the last 6 months shown below are a precise representation of my musical preferences... In recent times I've really just had Matt Maltese (Less and Less, When You Wash Your Hair), The Head and the Heart (Rivers and Roads) and Paulo Nutini (No Other Way) on repeat.
 
 <div style="display: flex;">
-  <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/spotify.png" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
 </div>
 
 <br>
@@ -38,8 +38,8 @@ In the past year I have been fortunate enough to visit Milan and experience the 
 
 <div style="display: flex;">
   <img src="/images/Mt_Fuji.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Abu_Dhabi.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/San_Siro.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/Abu_Dhabi.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/San_Siro.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
 </div>
 
 <br>
@@ -54,17 +54,24 @@ Ironman, Football, Skiing
 
 <h2> Cinema & TV, Musicals & Theatre </h2>
 
-Recently Watched: The Red Turtle, Hamilton, Gilmore Girls
+So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the last of all Studio Ghibli movies I was yet to watch. Hamilton, at the Victoria Palace Theatre, was the first musical I had been to see in-person in years, and I imagine I will soon be back again. Finally, most people will not need me to explain Saltburn... it began as a warm reflection of my time at university, and quickly descended into madness.
 
-![image](rzedward.github.io/images/500x300.png)
+<div style="display: flex;">
+  <img src="/images/The_Red_Turtle.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Hamilton.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Saltburn.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
+</div>
 
 <br>
 
 <h2> Ancient History </h2>
 
-Harappan Script Decoding
+I have found myself to be somewhat obsessed with the ongoing attempts to decode the Harappan Script, an early written language of the Indus Valley Civilization. I was hoping to use my own ideas of machine learning techniques to tackle the problem, and quickly realised that a set of elite professors had already been trying to do so for years... Anyway I continue to read about the Sumerians, Harappans, and other early civilisations out of pure fascination.
 
-![image](rzedward.github.io/images/500x300.png)
+<div style="display: flex;">
+  <img src="/images/Harappan_Script.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Ancient_Sumer.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+</div>
 
 <br>
 
