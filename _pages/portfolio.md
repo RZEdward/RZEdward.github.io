@@ -13,8 +13,6 @@ Welcome! See my projects below.
 
 In my most recent project I constructed a convolutional neural network (CNN) and applied it to a dataset of first generation pokemon, with the aim of correctly classifying a pokemon when tested on unseen data.
 
-In addition, I was interested to see how the performance of a CNN developed from scratch would compare with that of the TensorFlow/Keras libraries. The results are summarised below, but for the complete report please click HERE.
-
 ![image](rzedward.github.io/images/500x300.png)
 
 <br>
@@ -27,15 +25,23 @@ In this project I conducted extensive research into various key stats that one m
 
 <br>
 
-<h2> Project 3: Logistic Regression or GDA </h2>
+<h2> Data Engineering Project </h2>
 
-Let's try to classify something with LR or 2-Feature GDA.
+SQL / Python / Hadoop / Spark / AWS / Azure - Project to display competence in data engineering
 
 ![image](rzedward.github.io/images/500x300.png)
 
 <br>
 
-<h2> Project 4: Time Series Forecasting </h2>
+<h2> Project 4: Logistic Regression </h2>
+
+Using built-in vs custom built logistic regression to identify neural tube defects. We are taking quantifiable features of the neural tubes rather than images here.
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
+<h2> Project 5: Time Series Forecasting </h2>
 
 Let's build a time series forecast.
 
@@ -45,11 +51,7 @@ Let's build a time series forecast.
 
 Ideas:
 
-* Neural Network from scratch - Pokemon Identifier
-* London Boroughs Rental Market Dashboard
-* Neural Tube Defect Classifier
-* Cobblestone Project
-
+* Cobblestone Research Project
 * Kaggle competitions
 * Hackathon
 * Excel Competition
