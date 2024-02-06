@@ -20,9 +20,11 @@ Built in C++, this computer-simulated agent-based model was developed to replica
 
 <h2> The Emergent Role of Epigenetic and Environmental Factors in Promoting Neural Tube Defects </h2>
 
-This literature review, accessed HERE as a PDF, is a synthesis of various papers exploring the ways in which the dysregulation of epigenetic processes or imbalance of environmental factors may lead to the occurrence of neural tube defects (NTDs).
+This literature review, accessed [HERE](/files/Biosciences_Literature_Review.pdf) as a PDF, is a synthesis of various papers exploring the ways in which the dysregulation of epigenetic processes or imbalance of environmental factors may lead to the occurrence of neural tube defects (NTDs).
 
-![image](rzedward.github.io/images/500x300.png)
+<div style="display: flex;">
+  <img src="/images/Lit_Review_Cover.png" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+</div>
 
 <br>
 
