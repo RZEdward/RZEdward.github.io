@@ -28,16 +28,19 @@ I'm not sure that the last 6 months shown below are a precise representation of 
 
 <div style="display: flex;">
   <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/spotify.png" alt="Image 2" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
 
 <h2> Travelling </h2>
 
-Recently Visited: Japan, UAE, Milan
+In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and soon I will fly to Japan to see all from Tokyo to Osaka! I am on a mission to visit every sovereign nation, and so far I am through 41 of 197.
 
-![image](rzedward.github.io/images/500x300.png)
+<div style="display: flex;">
+  <img src="/images/Mt_Fuji.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Abu_Dhabi.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/San_Siro.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+</div>
 
 <br>
 
