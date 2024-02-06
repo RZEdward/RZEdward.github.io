@@ -27,7 +27,7 @@ This literature review, accessed [HERE](/files/Biosciences_Literature_Review.pdf
 
 <div style="display: flex;">
   <img src="/images/Lit_Review_Cover.png" alt="Image 2" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/NTD_Foetus.png" alt="Image 1" style="width: 50%; border: 2px solid white;">
+  <img src="/images/NTD_Foetus.png" alt="Image 1" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
