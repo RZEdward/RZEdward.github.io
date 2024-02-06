@@ -20,8 +20,13 @@ Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
 
 <h2> Music </h2>
 
-Favourite artists right now: Matt Maltese, Marianne Beaulieu, Paulo Nutini, Ludovico Einaudi
+Top Songs:
 
+- Matt Maltese: Less and Less, When You Wash Your Hair
+- Head and the Heart: Rivers and Roads
+- Paulo Nutini: No Other Way
+
+<img src="/images/spotify.png" alt="Spotify DNA Poster" style="width: 50%; border: 2px solid white;">
 <img src="/images/spotify.png" alt="Spotify DNA Poster" style="width: 50%; border: 2px solid white;">
 
 <br>
