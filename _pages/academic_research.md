@@ -26,6 +26,8 @@ This literature review...
 
 <br>
 
+<!-- 
+
 <h2> Paper 1: Machine Learning Technique </h2>
 
 Consider this a summary of a paper I read recently that intrigued and excited me. This paper by...
@@ -41,3 +43,5 @@ Ideas:
 * Master's Project Literature Review
 * Dissertation Lit Review
 * Paper 1 - Read recently & summarised
+
+-->

@@ -72,7 +72,7 @@ So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the
 
 <h2> Ancient History </h2>
 
-I have found myself to be somewhat obsessed with the ongoing attempts to decode the Harappan Script, an early written language of the Indus Valley Civilization. I was hoping to use my own ideas of machine learning techniques to tackle the problem, and quickly realised that a set of elite professors had already been trying to do so for years... Anyway I continue to read about the Sumerians, Harappans, and other early civilisations out of pure fascination.
+I have found myself to be somewhat obsessed with the ongoing attempts to decode the Harappan Script, an early written language of the Indus Valley Civilization. I was hoping to use my own ideas of machine learning techniques to tackle the problem, and quickly realised that cryptographers and highly-regarded professors had already been trying to do so for years... Anyway I continue to read about the Sumerians, Harappans, and other early civilisations out of pure fascination.
 
 <div style="display: flex;">
   <img src="/images/Harappan_Script.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
