@@ -50,6 +50,16 @@ Harappan Script Decoding
 
 <br>
 
+<h2> Speed-Cubing </h2>
+
+Record: 47s
+
+YouTube Tutorial: .link
+
+![image](rzedward.github.io/images/500x300.png)
+
+<br>
+
 
 Ideas:
 
