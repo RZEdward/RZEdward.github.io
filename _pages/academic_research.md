@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <br>
-Welcome to my research section. I am yet to formally publish any research, but below I have displayed reimplementations of advanced papers, summaries of interesting publications, and my final year biosciences literature review.
+Welcome to my research section. I am yet to formally publish any research, but below I have displayed reimplementations of advanced papers, summaries of interesting publications, and my final year dissertations.
 
 <h2> Agent-Based Model: The Collective Physics of Motile Cells in Complex Environments </h2>
 
