@@ -14,7 +14,11 @@ Below you will see various activities I engage in to fill my free time beyond ma
 
 Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
 
-![image](rzedward.github.io/images/500x300.png)
+<div style="display: flex;">
+  <img src="/images/Shadow_and_Bone.jpg" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Gene_Machine.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Crime_and_Punishment.jpg" alt="Image 2" style="width: 50%; border: 2px solid white;">
+</div>
 
 <br>
 
@@ -27,10 +31,9 @@ Top Songs:
 - Paulo Nutini: No Other Way
 
 <div style="display: flex;">
-  <img src="/images/spotify.png" alt="Image 1" style="width: 50%; margin-right: 2px;">
-  <img src="/images/spotify.png" alt="Image 2" style="width: 50%;">
+  <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/spotify.png" alt="Image 2" style="width: 50%; border: 2px solid white;">
 </div>
-
 
 <br>
 
