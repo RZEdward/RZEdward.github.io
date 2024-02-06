@@ -32,10 +32,9 @@ My current research interests lie in CNNs, agent-based modelling, and time serie
 
 <h2> Primary Ongoing Project </h2>
 
-* Pokemon Classification Model using a Convolutional Neural Network (CNN) built from scratch
+* Pokemon Classification Model using a Convolutional Neural Network (CNN) 
 
 <br>
-
 My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which can be applied to machine learning theory and the wider tech domain. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. 
 
 To reinforce my 'transition' from physics to computer science, I have completed several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules:
