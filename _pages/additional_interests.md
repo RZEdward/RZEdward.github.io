@@ -22,7 +22,7 @@ Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
 
 Favourite artists right now: Matt Maltese, Marianne Beaulieu, Paulo Nutini, Ludovico Einaudi
 
-![Spotify DNA Poster](/images/spotify.png)
+<img src="/images/spotify.png" alt="Spotify DNA Poster" style="width: 50%; border: 2px solid white;">
 
 <br>
 
