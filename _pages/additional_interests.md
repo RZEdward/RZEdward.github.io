@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 <br>
-What I get up to in my spare time!
+Everything I get up to in my spare time!
 
 <h2> Reading </h2>
 
-Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
+Recently I've read a range of books, from dark/high fantasy, to a history of ribosome research, and a classic from Dostoevsky!
 
 <div style="display: flex;">
   <img src="/images/Shadow_and_Bone.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
@@ -24,11 +24,7 @@ Recently Read: Shadow & Bone Trilogy, Gene Machine, Crime & Punishment
 
 <h2> Music </h2>
 
-Top Songs:
-
-- Matt Maltese: Less and Less, When You Wash Your Hair
-- Head and the Heart: Rivers and Roads
-- Paulo Nutini: No Other Way
+I'm not sure that the last 6 months shown below are a precise representation of my musical preferences... In recent times I've really just had Matt Maltese (Less and Less, When You Wash Your Hair), The Head and the Heart (Rivers and Roads) and Paulo Nutini (No Other Way) on repeat.
 
 <div style="display: flex;">
   <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
