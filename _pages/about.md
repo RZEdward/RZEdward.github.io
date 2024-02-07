@@ -16,8 +16,8 @@ I am driven by a deep interest in mathematics, statistics, and model development
 My current research interests lie in convolutional neural networks and classical reinforcement learning methods.
 
 <div style="display: flex;">
-  <img src="/images/Neural_Network.png" alt="Image 2" style="width: 20.15%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Convolution.png" alt="Image 1" style="width: 79.85%; border: 2px solid white;">
+  <img src="/images/Neural_Network.png" alt="Image 2" style="width: 25%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Convolution.png" alt="Image 1" style="width: 75%; border: 2px solid white;">
 </div>
 
 <h2> Skills & Certifications </h2>
