@@ -17,7 +17,7 @@ My current research interests lie in convolutional neural networks and classical
 <br>
 <div style="display: flex;">
   <img src="/images/Neural_Network.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Convolution.png" alt="Image 1" style="width: 75%; border: 2px solid white;">
+  <img src="/images/Convolution.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
 </div>
 
 <h2> Skills & Certifications </h2>
