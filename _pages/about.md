@@ -28,7 +28,7 @@ My current research interests lie in convolutional neural networks and classical
 * **Data Visualisation:** Tableau, PowerBI
 * **Data Engineering:** Hadoop, Spark
 * **Cloud Engineering:** AWS, Azure
-* **Other:** Shell-Scripting, LaTeX, GitHub, Microsoft Office
+* **Other:** Linux, Shell-Scripting, Microsoft Office
 
 <h2> Selected Experience </h2>
 
