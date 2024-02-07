@@ -11,6 +11,7 @@ ISSUES:
 
     Make font generalizable + tone down text whiteness
     More professional profile photo
+    Check legality of displaying each image
 
     MOBILE:
     nav bar dropdown menu colour
