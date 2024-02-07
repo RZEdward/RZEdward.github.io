@@ -22,13 +22,13 @@ My current research interests lie in convolutional neural networks and classical
 
 <h2> Skills & Certifications </h2>
 
-* Programming Languages: Python, C++, R
-* Frameworks: TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
-* Data Analysis: Excel, SQL
-* Data Visualisation: Tableau, PowerBI
-* Data Engineering: Hadoop, Spark
-* Cloud Engineering: AWS, Azure
-* Other: Shell-Scripting, LaTeX, GitHub, Microsoft Office
+* **Programming Languages:** Python, C++, R
+* **Frameworks:** TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
+* **Data Analysis:** Excel, SQL
+* **Data Visualisation:** Tableau, PowerBI
+* **Data Engineering:** Hadoop, Spark
+* **Cloud Engineering:** AWS, Azure
+* **Other:** Shell-Scripting, LaTeX, GitHub, Microsoft Office
 
 <h2> Selected Experience </h2>
 
