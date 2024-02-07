@@ -10,7 +10,7 @@ use inspect element to identify class names to be modified
 ISSUES: 
 
     Make font generalizable + tone down text whiteness
-    change highlighted word colour
+    More professional profile photo
 
     MOBILE:
     nav bar dropdown menu colour
