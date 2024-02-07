@@ -48,6 +48,7 @@ Following some intensive efforts in preprocessing, hidden layer selections, and 
 </div>
 
 <!-- Need to professionalize images, nice font, white text, clean boundaries -->
+<br>
 
 ---
 
