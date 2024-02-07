@@ -38,18 +38,17 @@ Here, my focus early on will be on internal projects and comprehensive training 
 
 <!-- Here my focus was on... -->
 
-<h2> Primary Ongoing Project </h2>
+<h2> Selected Project </h2>
 
-**Convolutional Neural Network: Gen-1 Pokémon Classifier**
+**Agent-Based Model: The Collective Physics of Motile Cells in Complex Environments**
 
-Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, the model returns a training accuracy of 95% after 20 epochs, having resized images to 256x256. However, the testing accuracy was considerably lower, and so I will soon introduce anti-overfitting techniques into the algorithm in order to enhance generalisation to unseen data.
+Built in C++, this computer-simulated agent-based model was developed to replicate the tissue environment observed upon wound-healing, tumour invasion, and early embryogenesis. The key focus was on the specific dynamics of tissue fingering upon migration or disassembly. We were interested in the properties of the fingers themselves, as well as the intensity of stochastic motion within a cell cluster that induces re-shaping and fingering as the cells spread into local space. The final paper may be seen [HERE](/files/Computational_Physics_Dissertation.pdf) as a PDF.
 
 <div style="display: flex;">
-  <img src="/images/Lickitung.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Accuracy_Epoch.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
+  <img src="/images/Diss_Cover.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Simulation.png" alt="Image 2" style="width: 50%; border: 2px solid white;">
 </div>
 
-<!-- Need to professionalize images, nice font, white text, clean boundaries -->
 <br>
 
 ---
