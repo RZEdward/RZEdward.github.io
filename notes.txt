@@ -9,12 +9,10 @@ use inspect element to identify class names to be modified
 
 ISSUES: 
 
-    Add images and links for portfolio and academic research
+    
     Update CV
-    Add description to experience section
-    Add a little detail to selected project
-
     Make font generalizable + tone down text whiteness
+    change highlighted word colour
 
     MOBILE:
     nav bar dropdown menu colour
