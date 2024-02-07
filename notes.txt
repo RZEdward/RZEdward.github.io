@@ -9,8 +9,6 @@ use inspect element to identify class names to be modified
 
 ISSUES: 
 
-    
-    Update CV
     Make font generalizable + tone down text whiteness
     change highlighted word colour
 
