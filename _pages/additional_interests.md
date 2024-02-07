@@ -24,11 +24,11 @@ Recently I've read a range of books, from dark/high fantasy, to a history of rib
 
 <h2> Music </h2>
 
-I'm not sure that the last 6 months shown below are a precise representation of my musical preferences... In recent times I've really just had Matt Maltese (Less and Less, When You Wash Your Hair), The Head and the Heart (Rivers and Roads) and Paulo Nutini (No Other Way) on repeat.
+I'
 
 <div style="display: flex;">
-  <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Top_Ten.jpg" alt="Image 3" style="width: 50%; border: 2px solid white;">
+  <img src="/images/Top_Ten.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Spotify.jpg" alt="Image 3" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
