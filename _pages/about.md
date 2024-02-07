@@ -51,7 +51,6 @@ Following some intensive efforts in preprocessing, hidden layer selections, and 
 <br>
 
 ---
-
 <br>
 My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which can be applied to machine learning theory and the wider tech domain. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. 
 
