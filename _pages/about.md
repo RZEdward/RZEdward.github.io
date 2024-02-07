@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-Incoming data engineer for machine learning pipelines at Kubrick Group and graduate of Durham University with a Master's degree in Natural Sciences combining Physics and Biology. 
+Incoming data engineer for machine learning pipelines at Kubrick Group and graduate of Durham University as a Master in Science in Biology and Physics within the Natural Sciences programme. 
 
 I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning, data engineering, and data science through personal projects, work history, and self-study. 
 
@@ -56,15 +56,15 @@ Following some intensive efforts in preprocessing, hidden layer selections, and 
 <br>
 My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which can be applied to machine learning theory and the wider tech domain. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. 
 
-To reinforce my 'transition' from physics to computer science, I have completed several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules:
+To reinforce my 'transition' from physics to computer science, I am in the process of completing several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules:
 
 * CS106A / CS106X - Programming Methodologies / Programming Abstractions
 * CS107 / CS110 - Computer Organisation and Systems / Principles of Computer Systems
 * CS145 / CMU15445 - Data Management and Data Systems / Intro to Database Systems
 * CS161 / CS166 - Design and Analysis of Algorithms / Data Structures
-* CS228 - Probabilistic Graphical Models: Principles and Techniques
 * CS229 / CS229B - Machine Learning / Machine Learning for Sequence Modelling
 * CS230 - Deep Learning
+* CS231N - Deep Learning for Computer Vision
 
 In addition I continue to attend various relevant conferences, talks, and workshops.
 
