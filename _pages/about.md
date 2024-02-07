@@ -32,13 +32,15 @@ My current research interests lie in convolutional neural networks and classical
 
 <h2> Selected Experience </h2>
 
-* Kubrick Group - Data Engineer (Awaiting Start)
+**Kubrick Group - Data Engineer (Awaiting Start)**
+
+Here, my focus early on will be on internal projects and comprehensive training in data modelling, databases, cloud engineering, cyber security, and more. From then on I will begin to engage with clients as a consultant in the broad field of data engineering, data science, and machine learning where I will have the opportunity to transform businesses and optimise internal pipelines.
 
 <!-- Here my focus was on... -->
 
 <h2> Primary Ongoing Project </h2>
 
-* Convolutional Neural Network: Gen-1 Pokémon Classifier
+**Convolutional Neural Network: Gen-1 Pokémon Classifier**
 
 Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, the model returns a training accuracy of 95% after 20 epochs, having resized images to 256x256. However, the testing accuracy was considerably lower, and so I will soon introduce anti-overfitting techniques into the algorithm in order to enhance generalisation to unseen data.
 
