@@ -15,6 +15,11 @@ I am driven by a deep interest in mathematics, statistics, and model development
 
 My current research interests lie in CNNs and agent-based modelling.
 
+<div style="display: flex;">
+  <img src="/images/Lickitung.png" alt="Image 2" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Accuracy_Epoch.png" alt="Image 1" style="width: 33.33%; border: 2px solid white;">
+</div>
+
 <h2> Skills & Certifications </h2>
 
 * Programming Languages: Python, C++, R

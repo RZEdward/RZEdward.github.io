@@ -28,6 +28,7 @@ I'm not sure that the last 6 months shown below are a precise representation of 
 
 <div style="display: flex;">
   <img src="/images/spotify.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/San_Siro.jpg" alt="Image 3" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
