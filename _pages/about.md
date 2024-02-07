@@ -14,7 +14,7 @@ Incoming data engineer for machine learning at Kubrick Group and graduate of Dur
 I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning, data engineering, and data science through personal projects, work history, and self-study. 
 
 My current research interests lie in convolutional neural networks and classical reinforcement learning methods.
-
+<br>
 <div style="display: flex;">
   <img src="/images/Neural_Network.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Convolution.png" alt="Image 1" style="width: 75%; border: 2px solid white;">
