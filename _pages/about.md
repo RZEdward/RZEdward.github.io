@@ -32,13 +32,22 @@ My current research interests lie in convolutional neural networks and classical
 
 <h2> Selected Experience </h2>
 
-* Kubrick Group - Data Engineer
+* Kubrick Group - Data Engineer (Awaiting Start)
 
 <!-- Here my focus was on... -->
 
 <h2> Primary Ongoing Project </h2>
 
-* Pokemon Classification Algorithm developed using a Convolutional Neural Network (CNN) 
+* Convolutional Neural Network: Gen-1 Pokémon Classifier
+
+Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, the model returns a training accuracy of 95% after 20 epochs, having resized images to 256x256. However, the testing accuracy was considerably lower, and so I will soon introduce anti-overfitting techniques into the algorithm in order to enhance generalisation to unseen data.
+
+<div style="display: flex;">
+  <img src="/images/Lickitung.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Accuracy_Epoch.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
+</div>
+
+<!-- Need to professionalize images, nice font, white text, clean boundaries -->
 
 <br>
 My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which can be applied to machine learning theory and the wider tech domain. In addition, the significant time I have spent undertaking research projects has given me a deep appreciation for data analysis, data science, and proper documentation. 
