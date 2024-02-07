@@ -45,20 +45,6 @@ In the past year I have been fortunate enough to visit Milan and experience the 
 
 <br>
 
-<h2> Sport </h2>
-
-I grew up with football and skiing as my primary sports, and managed to reach a fairly high level in both while time and health permitted. Now I am focusing on preparing for an Ironman in 2026, and as a spectator I hold an interest in basketball, formula 1, and tennis.
-
-In time I will track my running, swimming, and cycling progression here.
-
-<!-- Athletic Analytics 
-
-Day 1: Distance, Speed
-
--->
-
-<br>
-
 <h2> Cinema & TV, Musicals & Theatre </h2>
 
 So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the last of all Studio Ghibli movies I was yet to watch. Hamilton, at the Victoria Palace Theatre, was the first musical I had been to see in-person in years, and I imagine I will soon be back again. Finally, most people will not need me to explain Saltburn... it began as a warm reflection of my time at university, and quickly descended into madness.
@@ -79,6 +65,23 @@ I have found myself to be somewhat obsessed with the ongoing attempts to decode 
   <img src="/images/Harappan_Script.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Ancient_Sumer.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
 </div>
+
+<br>
+
+<h2> Sport </h2>
+
+I grew up with football and skiing as my primary sports, and managed to reach a fairly high level in both while time and health permitted. Now I am focusing on preparing for an Ironman in 2026, and as a spectator I hold an interest in basketball, formula 1, and tennis. In time I will track my running, swimming, and cycling progression here.
+
+<div style="display: flex;">
+  <img src="/images/Hazard.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Neymar.jpg" alt="Image 2" style="width: 40%; border: 2px solid white;">
+</div>
+
+<!-- Athletic Analytics 
+
+Day 1: Distance, Speed
+
+-->
 
 <br>
 
