@@ -72,7 +72,7 @@ I grew up with football and skiing as my primary sports, and managed to reach a 
 
 <div style="display: flex;">
   <img src="/images/Hazard.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Neymar.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/Neymar.jpg" alt="Image 2" style="width: 37.5%; border: 2px solid white;">
 </div>
 
 <!-- Add Del Piero Image and Athletic Analytics 
