@@ -22,11 +22,13 @@ Recently I've read a range of books, from dark/high fantasy, to a history of rib
 
 <br>
 
+<h2> Music </h2>
+
 The Noah Kahan expansion pack.
 
 <div style="display: flex;">
   <img src="/images/Top_Ten.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Spotify.jpg" alt="Image 3" style="width: 50%; border: 2px solid white;">
+  <img src="/images/Spotify.png" alt="Image 3" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
