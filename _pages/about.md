@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-Incoming data engineer for machine learning pipelines at Kubrick Group and graduate of Durham University as a Master in Science in Biology and Physics within the Natural Sciences programme. 
+Graduate of Durham University as a Master in Science in Biology and Physics within the Natural Sciences programme. 
 
 I am driven by a deep interest in mathematics, statistics, and model development, and I have developed a range of technical skills in the field of machine learning, data engineering, and data science through personal projects, work history, and self-study. 
 
@@ -26,17 +26,17 @@ My current research interests lie in convolutional neural networks and classical
 * **Frameworks:** TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
 * **Data Analysis:** Excel, SQL
 * **Data Visualisation:** Tableau, PowerBI
-* **Data Engineering:** Hadoop, Spark
-* **Cloud Engineering:** AWS, Azure
+<!--* **Data Engineering:** Hadoop, Spark-->
+* **Cloud Engineering:** AWS<!--, Azure-->
 * **Other:** Linux, Shell-Scripting, Microsoft Office
 
-<h2> Selected Experience </h2>
+<!-- <h2> Selected Experience </h2>
 
 **Kubrick Group - Data Engineer (Awaiting Start)**
 
 Here, my focus early on will be on internal projects and comprehensive training in data modelling, databases, cloud engineering, cyber security, and more. From then on I will begin to engage with clients as a consultant in the broad field of data engineering, data science, and machine learning where I will have the opportunity to transform businesses and optimise internal pipelines.
 
-<!-- Here my focus was on... -->
+-->
 
 <h2> Selected Project </h2>
 
