@@ -13,7 +13,7 @@ Welcome! See my projects below. <!-- or contributions or competitions -->
 
 In my most recent project I constructed a convolutional neural network (CNN) using Keras from TensorFlow and applied it to a dataset of first generation pokemon (downloaded from [Kaggle](https://www.kaggle.com/datasets/lantian773030/pokemonclassification/data)), with the aim of producing an accurate image recognition algorithm and correctly classifying pokemon when tested on unseen data.
 
-Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, the model returns a training accuracy of 95% after 20 epochs, having resized images to 256x256. However, the testing accuracy was considerably lower, and so I will soon introduce anti-overfitting techniques into the algorithm in order to enhance generalisation to unseen data.
+Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, the model returns a training accuracy of 95% after 20 epochs, having resized images to 256x256. However, the testing accuracy was considerably lower, and so I will soon introduce anti-overfitting techniques into the algorithm in order to enhance generalisation to unseen data. The images below will be tweaked and updated to appear more professional once I complete the project report...
 
 <div style="display: flex;">
   <img src="/images/Lickitung.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
