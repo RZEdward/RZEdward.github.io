@@ -3,17 +3,17 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
+      - main  # Set a branch to deploy
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
 
-    - name: Build with Jekyll
-      uses: ghcr.io/actions/jekyll-build-pages@v1.0.9
+    - name: Build and deploy
+      uses: actions/jekyll-build-pages@v1.0.9  # Specify the version here
       with:
         source: .
         destination: ./_site
+        token: ${{ secrets.GITHUB_TOKEN }}
