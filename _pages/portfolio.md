@@ -16,8 +16,8 @@ In my most recent project I constructed a convolutional neural network (CNN) usi
 Following some intensive efforts in preprocessing, hidden layer selections, and hyperparameter optimization, the model returns a training accuracy of 95% after 20 epochs, having resized images to 256x256. However, the testing accuracy was considerably lower, and so I will soon introduce anti-overfitting techniques into the algorithm in order to enhance generalisation to unseen data. The report and code will be made available upon completion.
 
 <div style="display: flex;">
-  <img src="/images/Lickitung.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Accuracy_Epoch.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
+  <img src="/images/Graveler.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Accuracy.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
 </div>
 
 <!-- Need to professionalize images, nice font, white text, clean boundaries  test -->
