@@ -20,7 +20,7 @@ Following some intensive efforts in preprocessing, hidden layer selections, and 
   <img src="/images/Accuracy_Epoch.png" alt="Image 1" style="width: 65%; border: 2px solid white;">
 </div>
 
-<!-- Need to professionalize images, nice font, white text, clean boundaries  -->
+<!-- Need to professionalize images, nice font, white text, clean boundaries  test -->
 
 <br>
 
