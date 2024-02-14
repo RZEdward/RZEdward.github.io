@@ -73,9 +73,9 @@ I have found myself to be somewhat obsessed with the ongoing attempts to decode 
 I grew up with football and skiing as my primary sports, and managed to reach a fairly high level in both while time and health permitted. As a spectator I also hold an interest in basketball, formula 1, and tennis. I am now focusing on preparing for an Ironman in 2026, and in time I will track my running, swimming, and cycling progress here.
 
 <div style="display: flex;">
-  <img src="/images/Hazard.jpg" alt="Image 1" style="width: 33.33%; height: 80%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Del_Piero.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/ney.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/Hazard.jpg" alt="Image 1" style="width: 33.33%; height: 95%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Del_Piero.jpg" alt="Image 1" style="width: 33.33%; height: 95%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/ney.jpg" alt="Image 2" style="width: 33.33%; height: 95%; border: 2px solid white;">
 </div>
 
 <!-- Add Del Piero Image and Athletic Analytics 
