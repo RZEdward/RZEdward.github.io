@@ -27,7 +27,7 @@ My current research interests lie in convolutional neural networks and classical
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
 <!--* **Data Engineering:** Hadoop, Spark, Airflow, Kafka, Sagemaker, Mart/Lake/Lakehouse/Warehouse/Base, Amazon EMR, Docker, K8s, Databricks, Snowflake -->
-* **Cloud Engineering:** AWS<!--, Azure-->
+* **Cloud Platforms:** AWS<!--, Azure-->
 * **Other:** Linux, Shell-Scripting, Microsoft Office (Excel, Word, PowerPoint)
 
 <!-- <h2> Selected Experience </h2>
