@@ -17,7 +17,7 @@ Following some intensive efforts in preprocessing, hidden layer selections, and 
 
 <div style="display: flex;">
   <img src="/images/Graveler.png" alt="Image 2" style="width: 40%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Accuracy.png" alt="Image 1" style="width: 60%; border: 2px solid white;">
+  <img src="/images/CNN_Analytics.png" alt="Image 1" style="width: 60%; border: 2px solid white;">
 </div>
 
 <!-- Need to professionalize images, nice font, white text, clean boundaries  test -->
@@ -70,5 +70,15 @@ Ideas:
 * Excel Competition
 * Open Source Contribution
 * Teaching (YouTube?)
+
+* Trading Bot
+* Logistic Regression Project - disease classification
+* NLP Sentiment Analysis
+* Time Series Forecast for Sales Predictions (or in R for stock market forecasting)
+* Ideally deploy these things using AWS/Docker/K8s
+
+* Data Science / ML - ML Projects
+* Data Analysis - Tableau Dashboard
+* Data Engineering - Need a full pipeline example
 
 -->
