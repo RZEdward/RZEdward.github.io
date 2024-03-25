@@ -59,12 +59,12 @@ In the past year I have been fortunate enough to visit Milan and experience the 
 
 <h2> Cinema & TV, Musicals & Theatre </h2>
 
-So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the last of all Studio Ghibli movies I was yet to watch. Hamilton, at the Victoria Palace Theatre, was the first musical I had been to see in-person in years, and I imagine I will soon be back again. Finally, most people will not need me to explain Saltburn... it began as a warm reflection of my time at university, and quickly descended into madness.
+So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the last of all Studio Ghibli movies I was yet to watch. Hamilton, at the Victoria Palace Theatre, was the first musical I had been to see in-person in years, and I imagine I will soon be back again. Finally, after far too many years, I watched Gladiator for the first time and loved it from start to finish.
 
 <div style="display: flex;">
   <img src="/images/The_Red_Turtle.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Hamilton.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Saltburn.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/Gladiator.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
 </div>
 
 <br>
