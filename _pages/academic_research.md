@@ -12,7 +12,7 @@ Welcome to my research page. I am yet to formally publish any research, but belo
 
 <h2> Agent-Based Model: The Collective Physics of Motile Cells in Complex Environments </h2>
 
-Built in C++, this computer-simulated agent-based model was developed to replicate the tissue environment observed upon wound-healing, tumour invasion, and early embryogenesis. The key focus was on the specific dynamics of tissue fingering upon migration or disassembly. We were interested in the properties of the fingers themselves, as well as the intensity of stochastic motion within a cell cluster that induces re-shaping and fingering as the cells spread into local space. The final paper may be seen [HERE](/files/Computational_Physics_Dissertation.pdf) as a PDF.
+Built in C++, this computer-simulated agent-based model was developed to replicate the tissue environment observed upon wound-healing, tumour invasion, and early embryogenesis. The key focus was on the specific dynamics of tissue fingering upon migration or disassembly. We were interested in the properties of the fingers themselves, as well as the intensity of stochastic motion within a cell cluster that induces re-shaping and fingering as the cells spread into local space. The final paper may be seen [HERE](/files/Computational_Physics_Thesis.pdf) as a PDF.
 
 <div style="display: flex;">
   <img src="/images/Diss_Cover.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">

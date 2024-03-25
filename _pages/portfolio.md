@@ -64,6 +64,8 @@ Let's build a time series forecast.
 
 Ideas:
 
+END GOAL: END-TO-END DATA ENGINEERING PROJECT USING CLOUD (Python/SQL), END-TO-END MACHINE LEARNING PROJECT (C++), END-TO-END DATA SCIENCE PROJECT (R)
+
 * Cobblestone Research Project
 * Kaggle competitions
 * Hackathon
@@ -79,6 +81,6 @@ Ideas:
 
 * Data Science / ML - ML Projects
 * Data Analysis - Tableau Dashboard
-* Data Engineering - Need a full pipeline example
+* Data Engineering - Need a full End-to-end project - see projectpro website
 
 -->

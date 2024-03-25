@@ -10,6 +10,18 @@ author_profile: true
 <br>
 Everything I get up to in my spare time!
 
+<h2> Pyrography </h2>
+
+One day I will share my own work publicly, today is not that day.
+
+<div style="display: flex;">
+  <img src="/images/Bear_Pyrography.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Map_Pyrography.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Ship_Pyrography.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+</div>
+
+<br>
+
 <h2> Reading </h2>
 
 Recently I've read a range of books, from dark/high fantasy, to a history of ribosome research, and a classic from Dostoevsky!
@@ -24,7 +36,7 @@ Recently I've read a range of books, from dark/high fantasy, to a history of rib
 
 <h2> Music </h2>
 
-The Noah Kahan expansion pack.
+The Mid-West America expansion pack.
 
 <div style="display: flex;">
   <img src="/images/Top_Ten.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
@@ -35,10 +47,10 @@ The Noah Kahan expansion pack.
 
 <h2> Travelling </h2>
 
-In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and soon I will fly to Japan to see all from Tokyo to Osaka! I am on a mission to visit every sovereign nation, and so far I am through 41 of 197.
+In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and most recently I flew to Japan to see all from Tokyo to Osaka! After the painfully long layover in Shanghai that ticks off countries number 41 and 42 of 197.
 
 <div style="display: flex;">
-  <img src="/images/Mt_Fuji.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/Arashiyama.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Abu_Dhabi.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/San_Siro.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
 </div>
@@ -57,6 +69,8 @@ So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the
 
 <br>
 
+
+<!--
 <h2> Ancient History </h2>
 
 I have found myself to be somewhat obsessed with the ongoing attempts to decode the Harappan Script, an early written language of the Indus Valley Civilization. I was hoping to use my own ideas of machine learning techniques to tackle the problem, and quickly realised that cryptographers and highly-regarded professors had already been trying to do so for years... Anyway I continue to read about the Sumerians, Harappans, and other early civilisations out of pure fascination.
@@ -68,6 +82,10 @@ I have found myself to be somewhat obsessed with the ongoing attempts to decode 
 
 <br>
 
+-->
+
+<!--
+
 <h2> Sport </h2>
 
 I grew up with football and skiing as my primary sports, and managed to reach a fairly high level in both while time and health permitted. As a spectator I also hold an interest in basketball, formula 1, and tennis. I am now focusing on preparing for an Ironman in 2026, and in time I will track my running, swimming, and cycling progress here.
@@ -77,6 +95,8 @@ I grew up with football and skiing as my primary sports, and managed to reach a 
   <img src="/images/Del_Piero.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/ney.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
 </div>
+
+-->
 
 <!-- Add Del Piero Image and Athletic Analytics 
 
