@@ -47,7 +47,7 @@ The Mid-West America expansion pack.
 
 <h2> Travelling </h2>
 
-In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and most recently I flew to Japan to see all from Tokyo to Osaka! After the painfully long layover in Shanghai that ticks off countries number 41 and 42 of 197.
+In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and most recently I flew to Japan to see all from Tokyo to Osaka! After the painfully long layover in Shanghai, that ticks off countries number 41 and 42 of 197.
 
 <div style="display: flex;">
   <img src="/images/Arashiyama.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
