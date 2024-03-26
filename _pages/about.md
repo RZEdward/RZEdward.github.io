@@ -72,7 +72,9 @@ To reinforce my understanding of computer science, I am in the process of comple
 * CS229B - Machine Learning for Sequence Modelling
 * CS230 - Deep Learning
 * CS231N - Deep Learning for Computer Vision
+
 <br>
+
 Please see my linked socials if you wish to contact me, and refer to the navigation bar to see my projects, research, and additional interests in depth.
 
 <!--My career is just beginning but I have a well-defined set of goals I hope to achieve. Looking forward I will continue to develop my data engineering, data science, and machine learning skills until I am confident in the specific domain I would like to specialise in, and at present I feel drawn to reinforcement learning due to the near-infinite scale of complexity and intrigue it offers. From this point, I aim to apply innovative machine learning model solutions to change the way the world approaches problems I am passionate about. I hope to build something truly meaningful that transforms a business or industry and later submit it to a top conference where I can share my research and ideas.-->
