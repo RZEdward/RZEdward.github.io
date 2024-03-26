@@ -20,10 +20,10 @@ In recent times I have particularly enjoyed exploring the theory and application
 
 <h2> Skills & Certifications </h2>
 
-* **Programming/Querying Languages:** Python, C++, R, SQL
+* **Programming/Querying Languages:** Python, C++, SQL, R*
 * **Frameworks:** TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
-* **Databases:** PostgreSQL
-* **Data Visualisation:** Tableau, PowerBI
+* **Databases:** PostgreSQL, RDS*
+* **Data Visualisation:** Tableau, PowerBI*
 <!--* **Data Engineering:** Hadoop, Spark, Airflow, Kafka, Sagemaker, Mart/Lake/Lakehouse/Warehouse/Base, Amazon EMR, Docker, K8s, Databricks*, Snowflake*, mapreduce, hive, bigquery*, iceberg, parquet, deltalake -->
 * **Cloud Platforms:** AWS<!--, Azure, GCP -->
 * **Other:** Linux, Shell-Scripting, Microsoft Office (Excel, Word, PowerPoint)
