@@ -9,9 +9,15 @@ author_profile: true
 <br>
 Welcome! See my projects below. <!-- or contributions or competitions -->
 
-<h2> Random Forest for Loan Approvals </h2>
+<h2> Predictive Analysis for Loan Default Risk </h2>
 
-In this project...
+Overview: Develop a predictive model that forecasts the likelihood of a loan default based on historical loan performance data and borrower's financial attributes.
+Skills Demonstrated: Risk analysis, handling time-series data, dealing with censored data (loans that have not yet defaulted), and model calibration for risk prediction.
+Why It's Good: This project emphasizes risk management—a crucial aspect of financial services—and showcases your ability to predict and manage financial risk.
+
+'What are the chances / binary classification that someone fails to pay back their loan'
+
+Logistic Regression or Decision Tree / Random Forest?
 
 <div style="display: flex;">
   <img src="/images/Graveler.png" alt="Image 2" style="width: 40%; border: 2px solid white; margin-right: 2px;">
