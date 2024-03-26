@@ -57,20 +57,23 @@ Built in C++, this computer-simulated agent-based model was developed to replica
 ---
 <br>
 <!--My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which is crucial in understanding machine learning theory and the wider tech domain. In addition, the time I spent undertaking individual and team research projects provided me with the core tools for data analysis, data science, and proper documentation.--> 
-To reinforce my understanding of computer science, I am in the process of completing several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules:
+To reinforce my understanding of computer science, I am in the process of completing several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules. Selected courses:
 
-* CS106A - Programming Methodologies 
+<!--* CS106A - Programming Methodologies 
 * CS106X - Programming Abstractions
 * CS107 - Computer Organisation and Systems
 * CS110 - Principles of Computer Systems
 * CS145 - Data Management and Data Systems 
+-->
 * CMU15445 - Intro to Database Systems
 * CS161 - Design and Analysis of Algorithms 
 * CS166 - Data Structures
 * CS229 - Machine Learning
+<!--
 * CS229B - Machine Learning for Sequence Modelling
 * CS230 - Deep Learning
 * CS231N - Deep Learning for Computer Vision
+-->
 
 <br>
 
