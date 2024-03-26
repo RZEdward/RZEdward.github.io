@@ -19,6 +19,8 @@ Why It's Good: This project emphasizes risk management—a crucial aspect of fin
 
 Logistic Regression or Decision Tree / Random Forest?
 
+Thumbnails: Logistic Regression Plot, Table of example customer info + risk prediction, Dalle of money burning up
+
 <div style="display: flex;">
   <img src="/images/Graveler.png" alt="Image 2" style="width: 40%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/CNN_Analytics.png" alt="Image 1" style="width: 60%; border: 2px solid white;">
