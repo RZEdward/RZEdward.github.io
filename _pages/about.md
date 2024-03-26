@@ -20,7 +20,7 @@ In recent times I have particularly enjoyed exploring the theory and application
 
 <h2> Skills & Certifications </h2>
 
-* **Programming/Querying Languages:** Python, C++, SQL, R*
+* **Programming/Querying Languages:** Python, C++, SQL, R
 * **Frameworks:** TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
