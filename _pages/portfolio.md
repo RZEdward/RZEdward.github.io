@@ -17,6 +17,8 @@ Why It's Good: This project emphasizes risk management—a crucial aspect of fin
 
 'What are the chances / binary classification that someone fails to pay back their loan'
 
+Binary: Default or Non-Default Case - 1 or 0
+
 Logistic Regression or Decision Tree / Random Forest?
 
 Thumbnails: Logistic Regression Plot, Table of example customer info + risk prediction, Dalle of money burning up
