@@ -27,6 +27,7 @@ In recent times I have particularly enjoyed exploring the theory and application
 <!--* **Data Engineering:** Hadoop, Spark, Airflow, Kafka, Sagemaker, Mart/Lake/Lakehouse/Warehouse/Base, Amazon EMR, Docker, K8s, Databricks*, Snowflake*, mapreduce, hive, bigquery*, iceberg, parquet, deltalake -->
 * **Cloud Platforms:** AWS<!--, Azure, GCP -->
 * **Other:** Linux, Shell-Scripting, Microsoft Office (Excel, Word, PowerPoint)
+\* Foundational
 
 <!-- Quant/Hedge Fund Data Engineer: Fundamentals + Java/C#/C++, NoSQL, Restful/Fast API, Django/Flask, Dash, Credit/Derivatives/Options Course, Terraform, most common leetcode questions...
 
