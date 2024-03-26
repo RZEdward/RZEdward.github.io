@@ -11,7 +11,7 @@ Welcome! See my projects below. <!-- or contributions or competitions -->
 
 <h2> Predictive Analysis for Loan Default Risk </h2>
 
-Overview: This project contains a set of predictive machine learning models that return a binary classification forecast for loan defaults based on the profiles and repayment status of past borrowers. The models used include random forest, decision tree, and logistic regression provided by Sci-Kit Learn, as well as another logistic regression model built from scratch which serves as a comparison to pre-existing frameworks. The code may be viewed [HERE](https://github.com/RZEdward/Loan_Default_Risk) on my GitHub page. The images below display the field correlation heatmap (showing key columns of the dataset) and a metrics table to compare the performance of each model.
+Overview: This project contains a set of predictive machine learning models that return a binary classification forecast for loan defaults based on the profiles and repayment status of past borrowers. The models used include random forest, decision tree, and logistic regression provided by Sci-Kit Learn, as well as another logistic regression model built from scratch which serves as a comparison to pre-existing frameworks. The code may be viewed [HERE](https://github.com/RZEdward/Loan_Default_Risk) on my GitHub page. The images below display the field correlation heatmap (and includes key columns from the dataset) and a metrics table to compare the performance of each model.
 
 <div style="display: flex;">
   <img src="/images/correlation_heatmap.png" alt="Image 2" style="width: 50%; border: 2px solid white; margin-right: 2px;">
