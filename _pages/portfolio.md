@@ -15,7 +15,7 @@ Overview: This project contains a set of predictive machine learning models that
 
 <div style="display: flex;">
   <img src="/images/correlation_heatmap.png" alt="Image 2" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/model_performance.png" alt="Image 1" style="width: 50%; border: 2px solid white;">
+  <img src="/images/models_performance.png" alt="Image 1" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
