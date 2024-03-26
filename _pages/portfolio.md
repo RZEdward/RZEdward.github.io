@@ -11,21 +11,15 @@ Welcome! See my projects below. <!-- or contributions or competitions -->
 
 <h2> Predictive Analysis for Loan Default Risk </h2>
 
-Overview: Develop a predictive model that forecasts the likelihood of a loan default based on historical loan performance data and borrower's financial attributes.
-Skills Demonstrated: Risk analysis, handling time-series data, dealing with censored data (loans that have not yet defaulted), and model calibration for risk prediction.
-Why It's Good: This project emphasizes risk management—a crucial aspect of financial services—and showcases your ability to predict and manage financial risk.
+Overview: This project contains a set of predictive machine learning models that return a binary classification forecast for loan defaults based on the profiles and repayment status of past borrowers. The models constructed and used include a random forest, decision tree, and logistic regression built into Sci-Kit Learn, as well as another logistic regression model built from scratch which serves as a comparison to pre-existing frameworks.
 
-'What are the chances / binary classification that someone fails to pay back their loan'
+Method: The first step was to retrieve a borrower history dataset from [Kaggle](https://www.kaggle.com/datasets/lantian773030/pokemonclassification/data) and clean the data thoroughly. This involved renaming columns to enhance readability and accessibility, removing duplicates and invalid entries, rounding values, eliminating unnecessary fields, and more. After some preliminary visualisations to ensure the data aligns with expectations, a correlation heatmap was generated to identify any redundancy, and then log scaling and boxcox were applied where necessary to enhance normality in all fields. Next, we had to encode any categorical variables into numeric form, then employ SMOTE to generate more representative 'default' cases as they were under-represented in the dataset, and, in our final stage of pre-processing, a scaler was applied to our data to ensure that all variation in absolute value differences was evenly weighted. Having completed data cleaning, EDA, feature engineering, and pre-processing, the models to be used were imported and then fit to the training data. 
 
-Binary: Default or Non-Default Case - 1 or 0
-
-Logistic Regression or Decision Tree / Random Forest?
-
-Thumbnails: Logistic Regression Plot, Table of example customer info + risk prediction, Dalle of money burning up
+As can be seen in the metrics table below, the built-in logistic regression and random forest models performed best among the set, and, as expected, the logistic regression model built from scratch performed relatively poorly due to a lack of complexity around convergence techniques, regularization, and hyperparameter tuning. Note that, in this context, we assign increased value to a high recall score as 'default' instances are rare, and it is of vital importance that we correctly predict each case in which a loan will/is highly likely to default.
 
 <div style="display: flex;">
-  <img src="/images/Graveler.png" alt="Image 2" style="width: 40%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/CNN_Analytics.png" alt="Image 1" style="width: 60%; border: 2px solid white;">
+  <img src="/images/correlation_heatmap.png" alt="Image 2" style="width: 50%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/model_performance_table.png" alt="Image 1" style="width: 50%; border: 2px solid white;">
 </div>
 
 <br>
