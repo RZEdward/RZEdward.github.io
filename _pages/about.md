@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-My core interests lie in mathematics, statistics, finance, and model development, and I have developed a range of technical skills in the fields of data science, data engineering, and machine learning, through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme.
+My core interests lie in mathematics, statistics, finance, and model development, and I have developed a range of technical skills in the fields of data science, data engineering, and machine learning, through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within Computational Physics department).
 
 In recent times I have particularly enjoyed exploring the theory and application of convolutional neural networks.
 <br>
@@ -20,7 +20,7 @@ In recent times I have particularly enjoyed exploring the theory and application
 
 <h2> Skills & Certifications </h2>
 
-* **Programming Languages:** Python, C++, R
+* **Programming/Querying Languages:** Python, C++, R, SQL
 * **Frameworks:** TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
