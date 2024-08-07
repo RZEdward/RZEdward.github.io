@@ -25,7 +25,7 @@ In recent times I have particularly enjoyed exploring the theory and application
 * **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, ggplot2, BeautifulSoup 
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
-* **Extras:** Comfortable working in Linux/Shell-Scripting/SSH environments, highly competent in Excel
+* **Extras:** Linux environments, Shell-Scripting, SSH (PuTTY/WinSCP)
 
 <!-- Quant/Hedge Fund Data Engineer: Fundamentals + Java/C#/C++, NoSQL, Restful/Fast API, Django/Flask, Dash, Credit/Derivatives/Options Course, Terraform, most common leetcode questions...
 
