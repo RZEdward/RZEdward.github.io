@@ -12,7 +12,7 @@ Everything I get up to in my spare time!
 
 <h2> Pyrography </h2>
 
-One day I will share my own work publicly, today is not that day.
+One day I will share my own work publicly, today is not that day, so here are some examples of the level I aim to be at soon.
 
 <div style="display: flex;">
   <img src="/images/Bear_Pyrography.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
