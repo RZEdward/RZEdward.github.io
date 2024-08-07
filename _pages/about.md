@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello There, I'm Ross!"
+title: "Homepage"
 #excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,7 @@ redirect_from:
 
 <br>
 
-test
-
-My core interests lie in problem solving, model development, and machine learning, and so I have developed a range of technical skills in data science and wider computer science through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within the Computational Physics department). 
+Hello there, I'm Ross! My core interests lie in problem solving, model development, and machine learning, and so I have developed a range of technical skills in data science and wider computer science through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within the Computational Physics department). 
 
 With experience as a Logistics Manager and as a Data Scientist, I am now looking to join an exceptional technical team solving a range of complex problems. 
 
