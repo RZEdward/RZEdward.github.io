@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 <br>
+
+test
+
 My core interests lie in problem solving, model development, and machine learning, and so I have developed a range of technical skills in data science and wider computer science through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within the Computational Physics department). 
 
 With experience as a Logistics Manager and as a Data Scientist, I am now looking to join an exceptional technical team solving a range of complex problems. 
@@ -59,7 +62,7 @@ Key focus: specific dynamics of tissue fingering upon collective cell migration 
 ---
 <br>
 <!--My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which is crucial in understanding machine learning theory and the wider tech domain. In addition, the time I spent undertaking individual and team research projects provided me with the core tools for data analysis, data science, and proper documentation.--> 
-To reinforce my understanding of computer science, I have formally studied core topics such as databases, data structures & algorithms, and machine learning, through online lectures.
+To reinforce my understanding of computer science, I have spent my free time formally studying core topics such as databases, data structures & algorithms, and machine learning, through online lectures.
 
 <!--
 * CMU15445 - Intro to Database Systems
