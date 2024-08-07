@@ -34,6 +34,7 @@ Recently I've read a range of books, from a classic by Dostoevsky, to a history 
 
 <br>
 
+<!--
 <h2> Music </h2>
 
 The Mid-West America expansion pack.
@@ -42,6 +43,7 @@ The Mid-West America expansion pack.
   <img src="/images/Top_Ten.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Spotify_Artists.png" alt="Image 3" style="width: 50%; border: 2px solid white;">
 </div>
+-->
 
 <br>
 

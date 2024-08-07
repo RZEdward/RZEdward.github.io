@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <br>
-Welcome to my research page. Below you can see my past research projects, and in future I will add summaries of interesting publications, as well as any new research I take on in my spare time.
+Welcome to my research page. Below you can see my past research projects, and in future I will add summaries of interesting publications as well as any new research I take on in my spare time.
 
 <h2> Agent-Based Model: The Collective Physics of Motile Cells in Complex Environments </h2>
 
