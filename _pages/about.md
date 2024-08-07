@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br>
-My core interests lie in mathematics, statistics, finance, and model development, and I have developed a range of technical skills in the fields of data science, data engineering, and machine learning, through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within Computational Physics department).
+My core interests lie in problem solving, model development, and machine learning, and so I have developed a range of technical skills in data science and wider computer science through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within the Computational Physics department). With experience as a Logistics Manager and as a Data Scientist, I am now looking to join an exceptional technical team solving a range of complex problems. 
 
 In recent times I have particularly enjoyed exploring the theory and application of convolutional neural networks.
 <br>
@@ -20,13 +20,12 @@ In recent times I have particularly enjoyed exploring the theory and application
 
 <h2> Skills & Certifications </h2>
 
-* **Programming/Querying Languages:** Python, C++, SQL, R
-* **Frameworks:** TensorFlow, Keras, PyTorch, Sci-Kit Learn, Beautiful Soup, Numpy, Pandas, Matplotlib, Seaborn
+* **Technical Domains:** Data Analytics, Data Science, Machine Learning
+* **Programming Languages:** Python, C++, R
+* **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, ggplot2, BeautifulSoup 
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
-<!--* **Data Engineering:** Hadoop, Spark, Airflow, Kafka, Sagemaker, Mart/Lake/Lakehouse/Warehouse/Base, Amazon EMR, Docker, K8s, Databricks*, Snowflake*, mapreduce, hive, bigquery*, iceberg, parquet, deltalake -->
-* **Cloud Platforms:** AWS<!--, Azure, GCP -->
-* **Other:** Linux, Shell-Scripting, Microsoft Office (Excel, Word, PowerPoint)
+* **Extras:** Comfortable working in Linux/Shell-Scripting/SSH environments, highly competent in Excel
 
 <!-- Quant/Hedge Fund Data Engineer: Fundamentals + Java/C#/C++, NoSQL, Restful/Fast API, Django/Flask, Dash, Credit/Derivatives/Options Course, Terraform, most common leetcode questions...
 
@@ -45,7 +44,8 @@ Here, my focus early on will be on internal projects and comprehensive training 
 
 **Agent-Based Model: The Collective Physics of Motile Cells in Complex Environments**
 
-Built in C++, this computer-simulated agent-based model was developed to replicate the tissue environment observed upon wound-healing, tumour invasion, and early embryogenesis. The key focus was on the specific dynamics of tissue fingering upon migration or disassembly. We were interested in the properties of the fingers themselves, as well as the intensity of stochastic motion within a cell cluster that induces re-shaping and fingering as the cells spread into local space. The final paper may be seen [HERE](/files/Computational_Physics_Thesis.pdf) as a PDF.
+Built in C++, this computer-simulated agent-based model replicated the tissue environment observed upon wound-healing, tumour invasion, and early embryogenesis
+Key focus: specific dynamics of tissue fingering upon collective cell migration and disassembly. The final paper may be seen [HERE](/files/Computational_Physics_Thesis.pdf) as a PDF.
 
 <div style="display: flex;">
   <img src="/images/Diss_Cover.png" alt="Image 1" style="width: 50%; border: 2px solid white; margin-right: 2px;">
@@ -57,12 +57,14 @@ Built in C++, this computer-simulated agent-based model was developed to replica
 ---
 <br>
 <!--My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which is crucial in understanding machine learning theory and the wider tech domain. In addition, the time I spent undertaking individual and team research projects provided me with the core tools for data analysis, data science, and proper documentation.--> 
-To reinforce my understanding of computer science, I am in the process of completing several computer science modules offered online by Stanford and Carnegie Mellon, equivalent to over one year of medium to advanced-level degree modules. Selected courses:
+To reinforce my understanding of computer science, I have formally studied core topics such as Databases, Data Structures & Algorithms, and Machine Learning, through online lectures.
 
+<!--
 * CMU15445 - Intro to Database Systems
 * CS161 - Design and Analysis of Algorithms 
 * CS166 - Data Structures
 * CS229 - Machine Learning
+-->
 
 <br>
 
