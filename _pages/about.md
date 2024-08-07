@@ -22,7 +22,7 @@ In recent times I have particularly enjoyed exploring the theory and application
 
 * **Technical Domains:** Data Analytics, Data Science, Machine Learning
 * **Programming Languages:** Python, C++, R
-* **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, ggplot2, BeautifulSoup 
+* **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, BeautifulSoup 
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
 * **Extras:** Linux environments, Shell-Scripting, SSH (PuTTY/WinSCP)
@@ -57,7 +57,7 @@ Key focus: specific dynamics of tissue fingering upon collective cell migration 
 ---
 <br>
 <!--My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which is crucial in understanding machine learning theory and the wider tech domain. In addition, the time I spent undertaking individual and team research projects provided me with the core tools for data analysis, data science, and proper documentation.--> 
-To reinforce my understanding of computer science, I have formally studied core topics such as Databases, Data Structures & Algorithms, and Machine Learning, through online lectures.
+To reinforce my understanding of computer science, I have formally studied core topics such as databases, data structures & algorithms, and machine learning, through online lectures.
 
 <!--
 * CMU15445 - Intro to Database Systems

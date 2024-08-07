@@ -24,12 +24,12 @@ One day I will share my own work publicly, today is not that day.
 
 <h2> Reading </h2>
 
-Recently I've read a range of books, from dark/high fantasy, to a history of ribosome research, and a classic from Dostoevsky!
+Recently I've read a range of books, from a classic by Dostoevsky, to a history of ribosome research, and a recent publication from my Grandmother!
 
 <div style="display: flex;">
-  <img src="/images/Shadow_and_Bone.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
+  <img src="/images/White_Nights.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Gene_Machine.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Crime_and_Punishment.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/Troubled_Harvest.png" alt="Image 2" style="width: 33.33%; border: 2px solid white;">
 </div>
 
 <br>
@@ -47,7 +47,7 @@ The Mid-West America expansion pack.
 
 <h2> Travelling </h2>
 
-In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and most recently I flew to Japan to see all from Tokyo to Osaka! After the painfully long layover in Shanghai, that ticks off countries number 41 and 42 of 197.
+In the past year I have been fortunate enough to visit Milan and experience the San Siro, see family in the UAE and attend the Abu Dhabi GP, and most recently I flew to Japan to see all from Tokyo to Osaka! If we generously count the layover in Shanghai on the return journey, that takes my total countries visited to 42 of 197.
 
 <div style="display: flex;">
   <img src="/images/Arashiyama.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
@@ -59,12 +59,12 @@ In the past year I have been fortunate enough to visit Milan and experience the 
 
 <h2> Cinema & TV, Musicals & Theatre </h2>
 
-So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the last of all Studio Ghibli movies I was yet to watch. Hamilton, at the Victoria Palace Theatre, was the first musical I had been to see in-person in years, and I imagine I will soon be back again. Finally, after far too many years, I watched Gladiator for the first time and loved it from start to finish.
+So of my recent watches, The Red Turtle is a non-verbal masterpiece, and was the last of all Studio Ghibli movies I was yet to watch. Hamilton, at the Victoria Palace Theatre, was the first musical I had been to see in-person in years, and I imagine I will soon be back again. Finally, after far too many years, I gave the Dark Knight Trilogy a chance and loved it from start to finish.
 
 <div style="display: flex;">
   <img src="/images/The_Red_Turtle.jpg" alt="Image 1" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
   <img src="/images/Hamilton.jpg" alt="Image 2" style="width: 33.33%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/Gladiator.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
+  <img src="/images/thedarkknight.jpg" alt="Image 3" style="width: 33.33%; border: 2px solid white;">
 </div>
 
 <br>
