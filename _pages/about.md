@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 <br>
-My core interests lie in problem solving, model development, and machine learning, and so I have developed a range of technical skills in data science and wider computer science through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within the Computational Physics department). With experience as a Logistics Manager and as a Data Scientist, I am now looking to join an exceptional technical team solving a range of complex problems. 
+My core interests lie in problem solving, model development, and machine learning, and so I have developed a range of technical skills in data science and wider computer science through personal projects, work history, and self-study. In addition, I hold a Master's degree from Durham University in Biology and Physics within the Natural Sciences programme (Master's project completed within the Computational Physics department). 
 
-In recent times I have particularly enjoyed exploring the theory and application of convolutional neural networks.
+With experience as a Logistics Manager and as a Data Scientist, I am now looking to join an exceptional technical team solving a range of complex problems. 
+
+Recently, I have particularly enjoyed exploring the theory and application of convolutional neural networks.
 <br>
 <div style="display: flex;">
   <img src="/images/Neural_Network.png" alt="Image 2" style="width: 35%; border: 2px solid white; margin-right: 2px;">
