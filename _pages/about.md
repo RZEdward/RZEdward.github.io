@@ -13,7 +13,7 @@ Hello there, I'm Ross! My core interests lie in problem solving, model developme
 
 With experience as a Logistics Manager and as a Data Scientist, I am now looking to join an exceptional technical team solving a range of complex problems. 
 
-Recently, I have particularly enjoyed exploring anomaly detection in energy systems, as well as SNNs, as spiking neural networks satisfy my interests in both machine learning and biology.
+Recently, I have particularly enjoyed exploring anomaly detection in energy systems, as well as SNNs, as spiking neural networks satisfy my interests in both machine learning and neuroscience.
 <br>
 <div style="display: flex;">
   <img src="/images/Neural_Network.png" alt="Image 2" style="width: 50%; border: 2px solid white; margin-right: 2px;">
