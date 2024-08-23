@@ -24,7 +24,7 @@ Recently, I have particularly enjoyed exploring anomaly detection in energy syst
 
 * **Technical Domains:** Data Analytics, Data Science, Machine Learning
 * **Programming Languages:** Python, C++, R
-* **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, BeautifulSoup 
+* **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, Seaborn, BeautifulSoup 
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
 * **Extras:** Shell-Scripting, SSH (PuTTY/WinSCP)
