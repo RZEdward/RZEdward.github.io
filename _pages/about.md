@@ -59,7 +59,7 @@ Key focus: specific dynamics of tissue fingering upon collective cell migration 
 ---
 <br>
 <!--My natural sciences background has given me a concrete foundation in advanced mathematics and statistics which is crucial in understanding machine learning theory and the wider tech domain. In addition, the time I spent undertaking individual and team research projects provided me with the core tools for data analysis, data science, and proper documentation.--> 
-To reinforce my understanding of computer science, I have spent my free time formally studying core topics such as databases, data structures & algorithms, and machine learning, through online lectures.
+To reinforce my understanding of computer science, I spent any free time after graduation formally studying core topics such as databases, data structures & algorithms, and machine learning, through online lectures.
 
 <!--
 * CMU15445 - Intro to Database Systems
