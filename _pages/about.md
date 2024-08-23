@@ -27,7 +27,7 @@ Recently, I have particularly enjoyed exploring anomaly detection in energy syst
 * **Libraries/Frameworks:** TensorFlow, PyTorch, Sci-Kit Learn, Pandas, Numpy, Matplotlib, Seaborn, BeautifulSoup 
 * **Databases:** PostgreSQL
 * **Data Visualisation:** Tableau, PowerBI
-* **Extras:** Shell-Scripting, SSH (PuTTY/WinSCP)
+* **Other:** Shell-Scripting, SSH (PuTTY/WinSCP), Development on Linux
 
 <!-- Quant/Hedge Fund Data Engineer: Fundamentals + Java/C#/C++, NoSQL, Restful/Fast API, Django/Flask, Dash, Credit/Derivatives/Options Course, Terraform, most common leetcode questions...
 
