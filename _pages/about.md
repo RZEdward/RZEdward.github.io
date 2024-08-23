@@ -17,7 +17,7 @@ Recently, I have particularly enjoyed exploring anomaly detection in energy syst
 <br>
 <div style="display: flex;">
   <img src="/images/Neural_Network.png" alt="Image 2" style="width: 50%; border: 2px solid white; margin-right: 2px;">
-  <img src="/images/power_viz.webp" alt="Image 1" style="width: 50%; border: 2px solid white;">
+  <img src="/images/power_grid.webp" alt="Image 1" style="width: 50%; border: 2px solid white;">
 </div>
 
 <h2> Skills & Certifications </h2>
